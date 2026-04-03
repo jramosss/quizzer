@@ -43,12 +43,18 @@ export async function POST(request: Request) {
           { status: 400 }
         )
       }
-      for (const r of item.respuestas) {
-        if (typeof r.text !== 'string' || typeof r.correcta !== 'boolean') {
+      for (const r of item.respuestas as Record<string, unknown>[]) {
+        const textValue = r.text ?? r.texto
+        if (typeof textValue !== 'string' || typeof r.correcta !== 'boolean') {
           return NextResponse.json(
-            { error: 'Cada respuesta debe tener "text" (string) y "correcta" (boolean)' },
+            { error: 'Cada respuesta debe tener "text" o "texto" (string) y "correcta" (boolean)' },
             { status: 400 }
           )
+        }
+        // Normalize "texto" → "text" before storing
+        if (r.texto !== undefined) {
+          r.text = r.texto
+          delete r.texto
         }
       }
     }

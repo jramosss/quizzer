@@ -79,16 +79,22 @@ export default function ImportTab({ onImportSuccess }: ImportTabProps) {
         setParseError(`Pregunta ${i + 1}: falta el campo "respuestas" o está vacío.`)
         return null
       }
-      const anyCorrect = (item.respuestas as Answer[]).some(r => r.correcta === true)
+      const anyCorrect = (item.respuestas as Record<string, unknown>[]).some(r => r.correcta === true)
       if (!anyCorrect) {
         setParseError(`Pregunta ${i + 1} ("${item.pregunta}"): debe tener al menos una respuesta con "correcta": true.`)
         return null
       }
-      for (let j = 0; j < (item.respuestas as Answer[]).length; j++) {
-        const r = (item.respuestas as Answer[])[j]
-        if (typeof r.text !== 'string') {
-          setParseError(`Pregunta ${i + 1}, respuesta ${j + 1}: falta el campo "text".`)
+      for (let j = 0; j < (item.respuestas as Record<string, unknown>[]).length; j++) {
+        const r = (item.respuestas as Record<string, unknown>[])[j]
+        const textValue = r.text ?? r.texto
+        if (typeof textValue !== 'string') {
+          setParseError(`Pregunta ${i + 1}, respuesta ${j + 1}: falta el campo "text" o "texto".`)
           return null
+        }
+        // Normalize "texto" → "text"
+        if (r.texto !== undefined) {
+          r.text = r.texto
+          delete r.texto
         }
         if (typeof r.correcta !== 'boolean') {
           setParseError(`Pregunta ${i + 1}, respuesta ${j + 1}: "correcta" debe ser true o false (sin comillas).`)
@@ -179,13 +185,13 @@ export default function ImportTab({ onImportSuccess }: ImportTabProps) {
     "topic": "Nombre del tema (opcional)",
     "respuestas": [
       { "text": "Opción correcta", "correcta": true },
-      { "text": "Opción incorrecta", "correcta": false }
+      { "texto": "Opción incorrecta", "correcta": false }
     ]
   }
 ]`}
         </pre>
         <p className="text-xs text-muted-foreground">
-          El array puede contener múltiples preguntas. Una pregunta puede tener más de una respuesta correcta.
+          El array puede contener múltiples preguntas. Una pregunta puede tener más de una respuesta correcta. El campo del texto de cada respuesta acepta <code className="bg-muted px-1 rounded">"text"</code> o <code className="bg-muted px-1 rounded">"texto"</code>.
         </p>
       </div>
 
