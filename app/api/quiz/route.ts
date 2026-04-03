@@ -30,11 +30,16 @@ export async function POST(request: Request) {
     for (const item of body) {
       if (
         typeof item.pregunta !== 'string' ||
-        !Array.isArray(item.respuestas) ||
-        typeof item.topic !== 'string'
+        !Array.isArray(item.respuestas)
       ) {
         return NextResponse.json(
-          { error: 'Formato inválido. Cada pregunta debe tener "pregunta", "respuestas" y "topic"' },
+          { error: 'Formato inválido. Cada pregunta debe tener "pregunta" y "respuestas"' },
+          { status: 400 }
+        )
+      }
+      if (item.topic !== undefined && typeof item.topic !== 'string') {
+        return NextResponse.json(
+          { error: 'El campo "topic" debe ser un texto cuando está presente' },
           { status: 400 }
         )
       }

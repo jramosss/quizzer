@@ -13,7 +13,7 @@ interface Answer {
 interface Question {
   pregunta: string
   respuestas: Answer[]
-  topic: string
+  topic?: string
 }
 
 type Tab = 'quiz' | 'import'
@@ -118,20 +118,22 @@ export default function Home() {
                 </div>
 
                 {/* Topics summary */}
-                <div className="bg-card border border-border rounded-xl p-5 space-y-3">
-                  <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide">Temas incluidos</h3>
-                  <div className="flex flex-wrap gap-2">
-                    {[...new Set(quizzes.map((q) => q.topic))].map((topic) => {
-                      const count = quizzes.filter((q) => q.topic === topic).length
-                      return (
-                        <span key={topic} className="inline-flex items-center gap-1.5 px-3 py-1 bg-primary/10 text-primary text-xs font-medium rounded-full">
-                          {topic}
-                          <span className="bg-primary/20 text-primary rounded-full px-1.5 py-px text-xs font-semibold">{count}</span>
-                        </span>
-                      )
-                    })}
+                {quizzes.some((q) => q.topic) && (
+                  <div className="bg-card border border-border rounded-xl p-5 space-y-3">
+                    <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide">Temas incluidos</h3>
+                    <div className="flex flex-wrap gap-2">
+                      {[...new Set(quizzes.filter((q) => q.topic).map((q) => q.topic as string))].map((topic) => {
+                        const count = quizzes.filter((q) => q.topic === topic).length
+                        return (
+                          <span key={topic} className="inline-flex items-center gap-1.5 px-3 py-1 bg-primary/10 text-primary text-xs font-medium rounded-full">
+                            {topic}
+                            <span className="bg-primary/20 text-primary rounded-full px-1.5 py-px text-xs font-semibold">{count}</span>
+                          </span>
+                        )
+                      })}
+                    </div>
                   </div>
-                </div>
+                )}
 
                 {/* Features list */}
                 <div className="bg-card border border-border rounded-xl p-5 space-y-3">

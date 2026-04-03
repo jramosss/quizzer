@@ -8,7 +8,7 @@ interface Answer {
 interface Question {
   pregunta: string
   respuestas: Answer[]
-  topic: string
+  topic?: string
 }
 
 interface UserResponse {

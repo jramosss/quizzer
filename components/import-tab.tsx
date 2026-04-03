@@ -10,7 +10,7 @@ interface Answer {
 interface Question {
   pregunta: string
   respuestas: Answer[]
-  topic: string
+  topic?: string
 }
 
 interface ImportTabProps {
@@ -71,8 +71,8 @@ export default function ImportTab({ onImportSuccess }: ImportTabProps) {
         setParseError(`Pregunta ${i + 1}: falta el campo "pregunta" (texto).`)
         return null
       }
-      if (typeof item.topic !== 'string') {
-        setParseError(`Pregunta ${i + 1}: falta el campo "topic" (texto).`)
+      if (typeof item.topic !== 'undefined' && typeof item.topic !== 'string') {
+        setParseError(`Pregunta ${i + 1}: el campo "topic" debe ser un texto cuando está presente.`)
         return null
       }
       if (!Array.isArray(item.respuestas) || item.respuestas.length === 0) {
@@ -176,7 +176,7 @@ export default function ImportTab({ onImportSuccess }: ImportTabProps) {
 {`[
   {
     "pregunta": "Texto de la pregunta",
-    "topic": "Nombre del tema",
+    "topic": "Nombre del tema (opcional)",
     "respuestas": [
       { "text": "Opción correcta", "correcta": true },
       { "text": "Opción incorrecta", "correcta": false }

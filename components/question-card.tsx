@@ -9,7 +9,7 @@ interface QuestionCardProps {
   question: {
     pregunta: string
     respuestas: Answer[]
-    topic: string
+    topic?: string
   }
   selectedAnswers: number[]
   onAnswerSelect: (index: number) => void
@@ -35,11 +35,13 @@ export default function QuestionCard({
   return (
     <div className="bg-card rounded-2xl shadow-sm border border-border p-8 space-y-6">
       {/* Topic Badge */}
-      <div>
-        <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full">
-          {question.topic}
-        </span>
-      </div>
+      {question.topic && (
+        <div>
+          <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full">
+            {question.topic}
+          </span>
+        </div>
+      )}
 
       {/* Question */}
       <div>
