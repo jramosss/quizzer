@@ -25,9 +25,10 @@ interface UserResponse {
 
 interface QuizContainerProps {
   quizzes: Question[]
+  onExit?: () => void
 }
 
-export default function QuizContainer({ quizzes }: QuizContainerProps) {
+export default function QuizContainer({ quizzes, onExit }: QuizContainerProps) {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [responses, setResponses] = useState<UserResponse[]>([])
   const [completed, setCompleted] = useState(false)
@@ -144,6 +145,7 @@ export default function QuizContainer({ quizzes }: QuizContainerProps) {
         responses={responses}
         quizzes={quizzes}
         onRestart={handleRestart}
+        onExit={onExit}
       />
     )
   }
@@ -159,7 +161,20 @@ export default function QuizContainer({ quizzes }: QuizContainerProps) {
         {/* Header */}
         <div className="space-y-2">
           <div className="flex items-center justify-between">
-            <h1 className="text-3xl font-bold text-foreground">QuizPro</h1>
+            <div className="flex items-center gap-3">
+              {onExit && (
+                <button
+                  onClick={onExit}
+                  className="text-muted-foreground hover:text-foreground transition-colors"
+                  aria-label="Salir del cuestionario"
+                >
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7"/>
+                  </svg>
+                </button>
+              )}
+              <h1 className="text-3xl font-bold text-foreground">QuizPro</h1>
+            </div>
             <span className="text-sm font-medium text-muted-foreground">
               Pregunta {currentIndex + 1} de {quizzes.length}
             </span>

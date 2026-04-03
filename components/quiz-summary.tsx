@@ -21,12 +21,14 @@ interface QuizSummaryProps {
   responses: UserResponse[]
   quizzes: Question[]
   onRestart: () => void
+  onExit?: () => void
 }
 
 export default function QuizSummary({
   responses,
   quizzes,
   onRestart,
+  onExit,
 }: QuizSummaryProps) {
   const correctCount = responses.filter((r) => r.isCorrect).length
   const percentage = Math.round((correctCount / quizzes.length) * 100)
@@ -116,12 +118,22 @@ export default function QuizSummary({
             ))}
           </div>
 
-          <button
-            onClick={onRestart}
-            className="w-full bg-primary hover:bg-primary/90 text-primary-foreground font-semibold py-3 px-6 rounded-lg transition-colors"
-          >
-            Reintentar Cuestionario
-          </button>
+          <div className="flex gap-3">
+            <button
+              onClick={onRestart}
+              className="flex-1 bg-primary hover:bg-primary/90 text-primary-foreground font-semibold py-3 px-6 rounded-lg transition-colors"
+            >
+              Reintentar
+            </button>
+            {onExit && (
+              <button
+                onClick={onExit}
+                className="flex-1 border border-border hover:bg-muted text-foreground font-semibold py-3 px-6 rounded-lg transition-colors"
+              >
+                Volver al inicio
+              </button>
+            )}
+          </div>
         </div>
       </div>
     </div>
