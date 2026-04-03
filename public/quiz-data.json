@@ -1,0 +1,3817 @@
+[
+  {
+    "pregunta": "4.1 ¿Qué representa el PBI de un país?",
+    "respuestas": [
+      {
+        "text": "Representa el valor de todos los bienes y servicios finales producidos dentro del país en un período incierto",
+        "correcta": false
+      },
+      {
+        "text": "Representa el valor de todos los bienes y servicios finales producidos dentro del país en un período determinado.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Definición y Cálculo"
+  },
+  {
+    "pregunta": "4.1 El PIB es el:",
+    "respuestas": [
+      {
+        "text": "Valor de mercado de todos los bienes y servicios finales producidos en una economía en cierto período de tiempo",
+        "correcta": true
+      },
+      {
+        "text": "Valor de mercado de todos los bienes y servicios finales producidos en una economía por un período incierto",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Definición y Cálculo"
+  },
+  {
+    "pregunta": "4.1 El PBI mide:",
+    "respuestas": [
+      {
+        "text": "La renta de todos los miembros de la economía y el gasto total de los mismos",
+        "correcta": true
+      },
+      {
+        "text": "La renta de algunos de los los miembros de la economía y el gasto total de ellos.",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Definición y Cálculo"
+  },
+  {
+    "pregunta": "4.1 ¿Cuáles son los ítems que el PBI mide a la vez? Seleccionar las 2 (dos) opciones correctas",
+    "respuestas": [
+      {
+        "text": "El gasto parcial en los bienes y servicios producidos en la economía",
+        "correcta": false
+      },
+      {
+        "text": "El gasto total en los bienes y servicios producidos en la economía",
+        "correcta": true
+      },
+      {
+        "text": "El ingreso total de todas las personas en la economía",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Definición y Cálculo"
+  },
+  {
+    "pregunta": "4.1 Considerando la economía como un todo, ¿Qué podemos decir del PBI?.",
+    "respuestas": [
+      {
+        "text": "Que para una economía como un todo, el ingreso debe ser menor al gasto.",
+        "correcta": false
+      },
+      {
+        "text": "Que para una economía como un todo, el ingreso debe ser igual al gasto.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Definición y Cálculo"
+  },
+  {
+    "pregunta": "4.1 ¿Por qué el ingreso debe ser igual al gasto para una economía considerada como un todo?",
+    "respuestas": [
+      {
+        "text": "Porque cada transacción involucra a todos.",
+        "correcta": false
+      },
+      {
+        "text": "Porque cada transacción involucra a dos partes: un comprador y un vendedor.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Definición y Cálculo"
+  },
+  {
+    "pregunta": "4.1 El diagrama de flujo circular nos muestra que:",
+    "respuestas": [
+      {
+        "text": "El PNN es igual a la cantidad gastada por los hogares en bienes y servicios",
+        "correcta": false
+      },
+      {
+        "text": "El PBI es igual a la cantidad gastada por los hogares en bienes y servicios",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Definición y Cálculo"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes conceptos no corresponde a un componente del PBI?:",
+    "respuestas": [
+      {
+        "text": "Inversiones",
+        "correcta": false
+      },
+      {
+        "text": "Transferencias",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes es una manera correcta de calcular el PBI (producto bruto interno) por el método del gasto?",
+    "respuestas": [
+      {
+        "text": "Consumo + inversión gasto de gobierno + exportaciones",
+        "correcta": false
+      },
+      {
+        "text": "Consumo + inversión gasto de gobierno + exportaciones - importaciones.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.1 Los componentes del PBI son:",
+    "respuestas": [
+      {
+        "text": "Consumo ( C ), inversión (I), compras de gobierno (G) y saldo de la balanza comercial la cual comprende exportaciones (X) más importaciones (M); Y = C + I + G + X + M",
+        "correcta": false
+      },
+      {
+        "text": "Consumo ( C ), inversión (I), compras de gobierno (G) y saldo de la balanza comercial la cual comprende exportaciones (X) menos importaciones (M); Y = C + I + G + X – M",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.1 Los componentes del PBI son:",
+    "respuestas": [
+      {
+        "text": "El consumo de las economías domésticas, la compra de equipos, existencias y estructuras, las compras del estado y Exportaciones brutas",
+        "correcta": false
+      },
+      {
+        "text": "El consumo de las economías domésticas, la compra de equipos, existencias y estructuras, las compras del estado y Exportaciones netas",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.1 Los componentes del PBI son:",
+    "respuestas": [
+      {
+        "text": "Exportaciones netas, el consumo de las economías domésticas, la compra de equipos, existencias y estructuras, las compras del estado,Gasto Publico, Inversión Pública y Privada",
+        "correcta": true
+      },
+      {
+        "text": "Exportaciones brutas, el consumo de la economías domésticas, la compra de equipos, existencias y estructuras, las compras del estado, Gasto Público, Inversión Pública y Privada",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.1 ¿Cuáles son los ítems que componen el PBI de un país? Seleccione las 4 (cuatro) respuestas correctas.",
+    "respuestas": [
+      {
+        "text": "Ahorro",
+        "correcta": false
+      },
+      {
+        "text": "Gasto Público",
+        "correcta": true
+      },
+      {
+        "text": "Exportaciones netas",
+        "correcta": true
+      },
+      {
+        "text": "Inversión",
+        "correcta": true
+      },
+      {
+        "text": "Consumo",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.1 Sea una economía en donde el PIB=500, G=50, I=70 y XN=100 El consumo de las familias será:",
+    "respuestas": [
+      {
+        "text": "C=250",
+        "correcta": false
+      },
+      {
+        "text": "C=280",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.4 Como Ministro de Economía tiene que determinar el valor del PBI del país teniendo en cuenta la siguiente información: el consumo es igual a $ 9250, el ahorro es de $700, la inversión es $ 1.350, el gasto público asciende a $2.100, la recaudación impositiva es de $2.200, las exportaciones suman $ 3.750 y las importaciones $ 3.500¿cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "El PBI del país es igual a $ 13.250",
+        "correcta": false
+      },
+      {
+        "text": "El PBI del país es igual a $ 12.950",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.1 Las compras del Estado que están incluidas en el cálculo del PBI:",
+    "respuestas": [
+      {
+        "text": "Incluye gastos solo de los bienes realizados por la administración central, las regionales y locales",
+        "correcta": false
+      },
+      {
+        "text": "Incluye gastos en bienes y servicios realizados por la administración central, las regionales y locales.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Composición y Método del Gasto"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes ítems ocurridos en el mismo año de medición del PBI de un país lo excluiría por no corresponder?:",
+    "respuestas": [
+      {
+        "text": "El valor de las jubilaciones",
+        "correcta": true
+      },
+      {
+        "text": "El valor de las compras de nuevas viviendas",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Exclusiones"
+  },
+  {
+    "pregunta": "4.1 Diga cuál de los siguientes conceptos ocurridos en el mismo año del cálculo del PIB de un país, No se debieron haber incluído en su cómputo ya que no sería correcto hacerlo:",
+    "respuestas": [
+      {
+        "text": "El pago de las jubilaciones por parte del gobierno nacional",
+        "correcta": true
+      },
+      {
+        "text": "El pago de los bienes y servicios.",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Exclusiones"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de las siguientes transacciones realizadas por el Estado Nacional del país X NO incluiría en el cómputo del PIB de ese país?",
+    "respuestas": [
+      {
+        "text": "Las transferencias que realiza en concepto de impuestos per cápita",
+        "correcta": false
+      },
+      {
+        "text": "Las transferencias que realiza en concepto de jubilaciones y pensiones",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Exclusiones"
+  },
+  {
+    "pregunta": "4.1 Cuando el gobierno paga jubilaciones o pensiones durante un tiempo determinado:",
+    "respuestas": [
+      {
+        "text": "Estos conceptos no se incluyen en el cálculo del Producto Interno Bruto ya que estas son transferencia",
+        "correcta": true
+      },
+      {
+        "text": "Estos conceptos se incluyen en el cálculo del Producto Interno Bruto ya que estas son gastos contemplados dentro del paquete economico",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Exclusiones"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes conceptos NO se incluiría en el cómputo del Producto Bruto Interno de la Argentina, a pesar de que correspondería hacerlo?:",
+    "respuestas": [
+      {
+        "text": "Los consumos de cualquier tipo de alimentos dentro del hogar",
+        "correcta": false
+      },
+      {
+        "text": "Lo producido y consumido por un hogar en su propia huerta.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Exclusiones"
+  },
+  {
+    "pregunta": "4.1 El PBI:",
+    "respuestas": [
+      {
+        "text": "No comprende el valor de los insumos y productos intermedios porque generaría una doble contabilización de los bienes a lo largo de la cadena de producción",
+        "correcta": true
+      },
+      {
+        "text": "Comprende el valor de los insumos y productos intermedios",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Exclusiones"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes ítems No se contabiliza en el PBI de un país ya que implicaría una doble contabilización?:",
+    "respuestas": [
+      {
+        "text": "Valor de los bienes intermedios",
+        "correcta": true
+      },
+      {
+        "text": "Valores de bienes de transferencias",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Exclusiones"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes conceptos se incluyen en el cálculo del PBI de Argentina?:",
+    "respuestas": [
+      {
+        "text": "Los beneficios generados por una filial de una empresa extranjera radicada en Argentina",
+        "correcta": true
+      },
+      {
+        "text": "Los beneficios generados por una filial de uan empresa Argentina, radicada en el exterior",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Inclusiones / Exclusiones de Extranjería"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes ítems NO se incluiría en el cómputo del Producto Bruto Interno de un país X suponiendo que ocurren en el periodo que se calcula el PIB?:",
+    "respuestas": [
+      {
+        "text": "La adquisición por parte de una empresa nacional de la planta productiva de otra empresa ya existente.",
+        "correcta": true
+      },
+      {
+        "text": "La adquisición por parte de una empresa internacional de la planta productiva de otra empresa",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Inclusiones / Exclusiones de Extranjería"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes conceptos forma parte del PIB argentino?",
+    "respuestas": [
+      {
+        "text": "Los insumos en stock, no incorporados a los bienes finales producidos, en cualquier parte del período de medición",
+        "correcta": false
+      },
+      {
+        "text": "Los insumos en stock, no incorporados a los bienes finales producidos, al final del período de medición.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Inclusiones"
+  },
+  {
+    "pregunta": "4.1 Como asesor del Ministerio de Economía al momento de calcular el nivel de PBI del país lo consultan sobre como registrar las compras de nuevas viviendas por parte de los particulares.¿Cuál sería la respuesta?",
+    "respuestas": [
+      {
+        "text": "Las compras de nuevas viviendas deben ser registradas como inversión.",
+        "correcta": true
+      },
+      {
+        "text": "Las compras de nuevas viviendas no deben ser registradas como inversión",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI: Inversión / Compras de Vivienda"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes componentes corresponde a la Inversión en las cuentas nacionales?:",
+    "respuestas": [
+      {
+        "text": "La compra de mercadería para el hogar",
+        "correcta": false
+      },
+      {
+        "text": "La compra de viviendas nuevas",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Inversión / Compras de Vivienda"
+  },
+  {
+    "pregunta": "4.1 Indique cuál de las siguientes transacciones NO significa Inversión para el país X desde el punto de vista de la economía:",
+    "respuestas": [
+      {
+        "text": "Capitales del país Z compran empresas internacionales del país X para expandir su producción.",
+        "correcta": false
+      },
+      {
+        "text": "Capitales del país Z compran empresas nacionales del país X para expandir su producción.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI: Inversión / Compras de Vivienda"
+  },
+  {
+    "pregunta": "4.2 ¿Cómo se denomina la producción de bienes y servicios de una economía valuada a precios constantes?",
+    "respuestas": [
+      {
+        "text": "PNI nominal",
+        "correcta": false
+      },
+      {
+        "text": "PBI real",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 \"Producción de bienes y servicios valoradas a precios constantes\" es la definición de:",
+    "respuestas": [
+      {
+        "text": "PBI real",
+        "correcta": true
+      },
+      {
+        "text": "PBI nominal",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 ¿Cuál es la diferencia entre PBI nominal y el real?",
+    "respuestas": [
+      {
+        "text": "Que el PBI real se valoran los bienes a precios constantes mientras que en el nominal se valora los precios corrientes o vigentes del año de cálculo del PBI .",
+        "correcta": true
+      },
+      {
+        "text": "Que el PBI nominal se valoran los bienes a precios constantes mientras que en el real se valora los precios corrientes o vigentes del año de cálculo del PBI .",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 El PIB Real:",
+    "respuestas": [
+      {
+        "text": "Facilita la comparación de la evolución de la economía en periodo de escasa inflación",
+        "correcta": false
+      },
+      {
+        "text": "Facilita la comparación de la evolución de la economía en periodo de elevada inflación",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Si en un período se observó inflación en los precios de los bienes producidos en una economía:",
+    "respuestas": [
+      {
+        "text": "El PIB nominal será mayor al PIB real de ese año",
+        "correcta": true
+      },
+      {
+        "text": "El PIB nominal será menor al PIB real de ese año",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Si el PBI nominal de un país aumenta de $450mil millones en 2010; a $560mil millones en 2011; se puede afirmar que esta economía:",
+    "respuestas": [
+      {
+        "text": "Tiene un PBI nominal menor de un periodo a otro, para conocer si creció o no, debe calcularse el PBI real de esa economía",
+        "correcta": false
+      },
+      {
+        "text": "Tiene un PBI nominal mayor de un periodo a otro, para conocer si creció o no, debe calcularse el PBI real de esa economía",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Si el PBI nominal aumenta de un año a otro",
+    "respuestas": [
+      {
+        "text": "Esto significa que la economía está produciendo más bienes y servicios",
+        "correcta": false
+      },
+      {
+        "text": "Esto no necesariamente significa que la economía está produciendo más bienes y servicios",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.4 Como Ministro de Economía se hace necesario determinar el valor del PBI nominal del país teniendo en cuenta que se fabrican solo dos bienes X e Y que para el año 2020 el precio del bien X es de $ 16 y se producen 800 unidades, a su vez, el precio del bien Y es de $12 y se producen 600 unidades. ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": ".El PBI Nominal del país para el año 2020 es igual a $ 30.000.",
+        "correcta": false
+      },
+      {
+        "text": ".El PBI Nominal del país para el año 2020 es igual a $ 20.000.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Suponga que posee las cantidades y los precios de todos los bienes finales producidos en un país en los años 2000, 2001 y 2002. El Año 2000 es elegido como año base. Si usted desea calcular el PBI nominal de año 2001 ¿Que datos utilizaría?",
+    "respuestas": [
+      {
+        "text": "Los precios y cantidades del 2000",
+        "correcta": false
+      },
+      {
+        "text": "Los precios y cantidades del 2001",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Supóngase que posee las cantidades y precios vendidos de todos los bienes de un país de los años 2000, 2001 y 2002. El año 2001 es elegido como año base. Si usted desea calcular el PBI nominal del año 2001 ¿Qué datos utilizaría?",
+    "respuestas": [
+      {
+        "text": "Precios y cantidades del 2001",
+        "correcta": true
+      },
+      {
+        "text": "Precios y cantidades de 2000",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Suponga que posee los precios y la cantidad de bienes que se vendieron en 3 años consecutivos. 2000, 2001 y 2002. Debido a que el año 2000 hubo mayor estabilidad de precios, ¿el mismo se toma como base para el cálculo del PBI real? ¿Qué datos utilizaría para calcular PBI nominal y real?:",
+    "respuestas": [
+      {
+        "text": "Precios y cantidades del año 2000",
+        "correcta": true
+      },
+      {
+        "text": "Precios y cantidades del año 2001",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.4 Como Ministro de Economía se encuentra en la necesidad de calcular el PBI Real para el año 2020 (año base 2019) teniendo en cuenta que se fabrican sólo dos bienes, X e Y. En el año 2019 el precio del bien X era $ 12 y se produjeron 800 unidades, a su vez el precio del bien Y era de $16 y las unidades producidas fueron 600. Por otro lado, en el año 2020 el precio del bien X es de $17 y se producen 700 mientras que el bien Y es de $ 22 y se producen 500 unidades. ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "El PBI Real para el año 2020 es igual a $22.400",
+        "correcta": false
+      },
+      {
+        "text": "El PBI Real para el año 2020 es igual a $16.400",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Se calcula como el cociente entre el PBI nominal y el PBI real, multiplicado por cien.\" La expresión anterior define la fórmula de cálculo de",
+    "respuestas": [
+      {
+        "text": "Indice de precios al consumidor",
+        "correcta": false
+      },
+      {
+        "text": "Deflactor de PBI",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 ¿Cómo se calcula el deflactor del PBI?",
+    "respuestas": [
+      {
+        "text": "Deflactor del PBI= ((PBI Nominal) *(PBI Real))*100",
+        "correcta": false
+      },
+      {
+        "text": "Deflactor del PBI= ((PBI Nominal) /(PBI Real))*100",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.4 Al ser designado responsable en INDEC le indican que como primera actividad tiene que calcular el deflactor del PBI teniendo en cuenta que el PBI Nominal del país es de $12.400 y el PIB Real de $ 11.000. ¿Cuál sería su respuesta??",
+    "respuestas": [
+      {
+        "text": "El deflactor del PBI del país es igual a 122,38",
+        "correcta": false
+      },
+      {
+        "text": "El deflactor del PBI del país es igual a 112,73",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Si el deflactor del PBI de un año x de un determinado país asciende a 170, esto significa:",
+    "respuestas": [
+      {
+        "text": "Que el nivel de precios subió un 70% respecto al año base",
+        "correcta": true
+      },
+      {
+        "text": "Que el nivel de precios subió un 170% respecto al año base",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Si el deflactor del PBI del año 2013 es igual a 150 se puede afirmar lo siguiente:",
+    "respuestas": [
+      {
+        "text": "Que los precios en el año 2013 aumentaron un 50% respecto al año base.",
+        "correcta": true
+      },
+      {
+        "text": "Que los precios en el año 2013 no aumentaron respecto al año base.",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Si el deflactor del PBI del año 2013 es igual a 150 y el de 2014 es igual a 175 esto significa que:",
+    "respuestas": [
+      {
+        "text": "Que los precios en el 2014 aumentaron un 16,67% respecto al año base",
+        "correcta": true
+      },
+      {
+        "text": "Que los precios en el 2014 aumentaron un 18% respecto al año base",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Suponga que el PBI nominal de un país fue 12 millones de pesos en el 2000 y 15 millones en el año 2001. Si el deflactor del PBI fue 100 en el año 2000 y 150 en el año 2001, entonces podemos afirmar que:",
+    "respuestas": [
+      {
+        "text": "La economía no creció, en términos reales, en el año 2001, ya que el PBI real disminuyó",
+        "correcta": true
+      },
+      {
+        "text": "La economía no creció, en términos reales, en el año 2001, ya que el PBI real aumentó",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Suponga que el PBI nominal de un país fue 12 millones de pesos en el 2000 y 15 millones en el año 2001. Si el deflactor del PBI fue 100 en el año 2000 y 150 en el año 2001, entonces podemos afirmar que:",
+    "respuestas": [
+      {
+        "text": "La economía no creció, en términos reales, en el año 2001, ya que el PBI real disminuyó.",
+        "correcta": true
+      },
+      {
+        "text": "La economía creció, en términos reales, en el año 2001, ya que el PBI real disminuyó.",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Suponga que el PBI nominal de un país fue 12 millones de pesos en el 2000 y 15 millones en el año 2001. Si el deflactor del PBI fue 100 en el año 2000 y 150 en el año 2001, entonces podemos afirmar que:",
+    "respuestas": [
+      {
+        "text": "La economía no creció, en términos reales, en el año 2001, ya que el PBI real disminuyó",
+        "correcta": true
+      },
+      {
+        "text": "La economía creció, en términos reales, en el año 2001, ya "
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 Cuando hablamos de PBI nominal y PBI real es correcto afirmar que:",
+    "respuestas": [
+      {
+        "text": "Haciendo el cociente entre PBI nominal y PBI real, y luego multiplicando el resultado por 100, se obtiene el deflactor de precios de la economía",
+        "correcta": true
+      },
+      {
+        "text": "Haciendo el cociente entre PBI nominal y PBI real, y luego dividiendo el resultado por 100, se obtiene el deflactor de precios de la economía",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 El deflactor del PBI es una medida utilizada para:",
+    "respuestas": [
+      {
+        "text": "Monitorear el nivel promedio de los precios en la economía y, por consiguiente, la tasa de inflación",
+        "correcta": true
+      },
+      {
+        "text": "Monitorear el nivel total de los precios en la economía y, por consiguiente, la tasa de inflación",
+        "correcta": false
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 El país Y importa autopartes del país X para la producción interna de automóviles. Si el precio de las autopartes ha aumentado y usted desea analizar cómo impacta dicho elemento en la economía del país ¿Cuál de los siguientes indicadores utilizaría?:",
+    "respuestas": [
+      {
+        "text": "El PBI interno",
+        "correcta": false
+      },
+      {
+        "text": "El deflactor del PIB",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 En el año 2012 el precio de los vinos producidos en bodegas boutique para la exportación subió un 30%. ¿Cómo cree Ud. que incidirá este aumento en los indicadores de la inflación?:",
+    "respuestas": [
+      {
+        "text": "Incidirá totalmente en el deflactor del IPC y nada en el PBI.",
+        "correcta": false
+      },
+      {
+        "text": "Incidirá totalmente en el deflactor del PIB y nada en el IPC.",
+        "correcta": true
+      }
+    ],
+    "topic": "PBI Nominal vs. Real y Deflactor"
+  },
+  {
+    "pregunta": "4.2 ¿Qué precios se utilizan para el cálculo del Índice de Precio al Consumidor (IPC)?:",
+    "respuestas": [
+      {
+        "text": "Los precios de todos aquellos bienes y servicios que compra el consumidor representativo",
+        "correcta": true
+      },
+      {
+        "text": "Los precios de todos aquellos bienes y servicios que adquieren los empresarios",
+        "correcta": false
+      }
+    ],
+    "topic": "Índice de Precios al Consumidor (IPC)"
+  },
+  {
+    "pregunta": "4.2 ¿Cuál de los siguientes indicadores sirve para estimar la inflación que afecta a un consumidor?:",
+    "respuestas": [
+      {
+        "text": "El índice de precios al consumidor",
+        "correcta": true
+      },
+      {
+        "text": "El índice de precios al vendedor",
+        "correcta": false
+      }
+    ],
+    "topic": "Índice de Precios al Consumidor (IPC)"
+  },
+  {
+    "pregunta": "4.1 ¿A qué agregado macroeconómico hacemos referencia cuando decimos que es el ingreso total de los residentes de una nación menos las pérdidas por depreciación o desgaste del stock de equipo y estructura?",
+    "respuestas": [
+      {
+        "text": "Hacemos referencia al Producto Bruto Interno (PBI)",
+        "correcta": false
+      },
+      {
+        "text": "Hacemos referencia al Producto Nacional Neto (PNN)",
+        "correcta": true
+      }
+    ],
+    "topic": "PNB y PNN"
+  },
+  {
+    "pregunta": "4.1 ¿A qué definición corresponde el siguiente concepto: \"Renta nacional percibida por los residentes permanentes (nacionales) de un país (incluye la renta que los residentes del país hayan obtenido en el resto del mundo y las depreciaciones y incluye en la renta obtenida en el país por extranjeros):",
+    "respuestas": [
+      {
+        "text": "Producto Bruto Interno",
+        "correcta": false
+      },
+      {
+        "text": "Producto Nacional Bruto",
+        "correcta": true
+      }
+    ],
+    "topic": "PNB y PNN"
+  },
+  {
+    "pregunta": "4.1 Producto Nacional Bruto (PNB) es:",
+    "respuestas": [
+      {
+        "text": "Es el valor de todos los bienes y servicios finales producidos por los residentes permanentes de un país durante un determinado período de tiempo",
+        "correcta": true
+      },
+      {
+        "text": "Es el valor de todos los bienes y servicios finales producidos por los residentes permanentes de un país durante un tiempo indeterminado",
+        "correcta": false
+      }
+    ],
+    "topic": "PNB y PNN"
+  },
+  {
+    "pregunta": "4.1 ¿Cómo podemos definir al Producto Nacional Bruto (PNB)?:",
+    "respuestas": [
+      {
+        "text": "El PBN es la renta nacional percibida por los residentes permanentes de un país.",
+        "correcta": true
+      },
+      {
+        "text": "El PBN es la renta nacional percibida por residentes de un pais sin importan si permanecen en él o no",
+        "correcta": false
+      }
+    ],
+    "topic": "PNB y PNN"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de los siguientes ítems NO incluiría usted en la medición del PNB del país X?:",
+    "respuestas": [
+      {
+        "text": "Los beneficios generados por una filial de una empresa extranjera radicada en Argentina",
+        "correcta": false
+      },
+      {
+        "text": "Las ganancias obtenidas en el país X por los dueños de una empresa extranjera.",
+        "correcta": true
+      }
+    ],
+    "topic": "PNB y PNN"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de las siguientes operaciones se contabilizan en el PNB de Argentina, pero no en su PIB?:",
+    "respuestas": [
+      {
+        "text": "Las ganancias obtenidas por una sucursal en Uruguay de una cadena de hoteles Uruguaya",
+        "correcta": false
+      },
+      {
+        "text": "Las ganancias obtenidas por una sucursal en Uruguay de una cadena de hoteles Argentina.",
+        "correcta": true
+      }
+    ],
+    "topic": "PNB y PNN"
+  },
+  {
+    "pregunta": "4.1 ¿Cuáles de los siguientes conceptos se computa dentro del cálculo del Producto Nacional Bruto de nuestro país?:",
+    "respuestas": [
+      {
+        "text": "La renta de un jugador de fútbol argentino generada en un club de fútbol europeo.",
+        "correcta": true
+      },
+      {
+        "text": "La renta de un jugador argentino generada en un club de futbol de nuestro país",
+        "correcta": false
+      }
+    ],
+    "topic": "PNB y PNN"
+  },
+  {
+    "pregunta": "4.1 ¿Qué es el Ingreso o Renta Nacional?",
+    "respuestas": [
+      {
+        "text": "Es la renta parcial que perciben los residentes del país por la producción de bienes y servicios.",
+        "correcta": false
+      },
+      {
+        "text": "Es la renta total que perciben los residentes del país por la producción de bienes y servicios.",
+        "correcta": true
+      }
+    ],
+    "topic": "Renta Nacional y Renta Personal"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál es la definición de renta personal?:",
+    "respuestas": [
+      {
+        "text": "Renta que reciben los hogares y las empresas que no son sociedades anónimas.",
+        "correcta": true
+      },
+      {
+        "text": "Renta que reciben los hogares y las empresas que son sociedades anónimas.",
+        "correcta": false
+      }
+    ],
+    "topic": "Renta Nacional y Renta Personal"
+  },
+  {
+    "pregunta": "4.1 La renta que reciben los hogares y las empresas que no son sociedades anónimas hacen referencia a:",
+    "respuestas": [
+      {
+        "text": "PBI",
+        "correcta": false
+      },
+      {
+        "text": "La renta personal.",
+        "correcta": true
+      }
+    ],
+    "topic": "Renta Nacional y Renta Personal"
+  },
+  {
+    "pregunta": "4.1 ¿Qué es la renta personal disponible?",
+    "respuestas": [
+      {
+        "text": "Es el monto que les queda a los hogares antes de cumplir sus obligaciones con el gobierno.",
+        "correcta": false
+      },
+      {
+        "text": "Es el monto que les queda a los hogares después de cumplir sus obligaciones con el gobierno.",
+        "correcta": true
+      }
+    ],
+    "topic": "Renta Nacional y Renta Personal"
+  },
+  {
+    "pregunta": "4.1 La Renta personal disponible es la:",
+    "respuestas": [
+      {
+        "text": "Renta personal más los impuestos",
+        "correcta": false
+      },
+      {
+        "text": "Renta personal menos los impuestos",
+        "correcta": true
+      }
+    ],
+    "topic": "Renta Nacional y Renta Personal"
+  },
+  {
+    "pregunta": "4.3 ¿Cuál de los siguientes indicadores es usualmente utilizado para medir el bienestar de una persona?:",
+    "respuestas": [
+      {
+        "text": "El PBI Nominal",
+        "correcta": false
+      },
+      {
+        "text": "El PIB per capita",
+        "correcta": true
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 ¿Cuál de los siguientes agregados macroeconómicos se recomienda utilizar para medir el bienestar del país?",
+    "respuestas": [
+      {
+        "text": "El PBI Real",
+        "correcta": true
+      },
+      {
+        "text": "El PBI Nominal",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 ¿Qué medida se considera para medir el bienestar de la población de un país?",
+    "respuestas": [
+      {
+        "text": "PBI per cápita",
+        "correcta": true
+      },
+      {
+        "text": "PBI Real",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 ¿Qué medida, entre las siguientes, es la más apropiada para comparar el avance en materia de bienestar de un país?:",
+    "respuestas": [
+      {
+        "text": "Producto Bruto Interno Real de una población",
+        "correcta": false
+      },
+      {
+        "text": "Producto Bruto Interno Real per cápita",
+        "correcta": true
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "6.4 Para poder medir el nivel de bienestar de una nación los economistas suelenanalizartres variables: Salud, educación e ingreso.",
+    "respuestas": [
+      {
+        "text": "Verdadero",
+        "correcta": true
+      },
+      {
+        "text": "Falso",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "6.4 Para poder medir el nivel de bienestar de una nación los economistas suelen utilizar el Índice de Desarrollo Humano (IDH) que analiza tres variable: salud, educación e ingresos:",
+    "respuestas": [
+      {
+        "text": "Verdadero",
+        "correcta": true
+      },
+      {
+        "text": "Falso",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "6.4 El Índice de Planeta Feliz para medir el bienestar de un país además del PBI, incluye otros elementos como los medioambientales y los sociales.",
+    "respuestas": [
+      {
+        "text": "Verdadero",
+        "correcta": false
+      },
+      {
+        "text": "Falso",
+        "correcta": true
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.1 ¿Cuál de las siguientes afirmaciones es correcta?:",
+    "respuestas": [
+      {
+        "text": "El PBI mide perfectamente el bienestar económico pero un mayor PBI permite mayor bienestar",
+        "correcta": false
+      },
+      {
+        "text": "El PBI no mide perfectamente el bienestar económico pero un mayor PBI permite mayor bienestar",
+        "correcta": true
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 El PBI es un buen indicador del grado de crecimiento económico ya que observa la evolución de mismo en el tiempo, pero no resulta un indicador suficiente para evaluar el grado dedesarrollo de un país.",
+    "respuestas": [
+      {
+        "text": "Verdadero",
+        "correcta": true
+      },
+      {
+        "text": "Falso",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 El PBI per capita es:",
+    "respuestas": [
+      {
+        "text": "Un indicador de los gastos de una persona",
+        "correcta": false
+      },
+      {
+        "text": "Un indicador de la renta y gasto de una persona media",
+        "correcta": true
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "6.4 ¿Cuáles de las siguientes son críticas que se le hacen al PBI per cápita como medida del bienestar económico de un país? Seleccione las 4 (cuatro) opciones correctas",
+    "respuestas": [
+      {
+        "text": "Es una medida que suele estar subestimada al no tener en cuenta hechos que generan bienestar, pero no tienen una medición económica.",
+        "correcta": true
+      },
+      {
+        "text": "Es neutral en relación a los gastos que realiza una persona ya que no distingue aquellos que pueden afectar la salud del individuo de aquellos que lo benefician.",
+        "correcta": true
+      },
+      {
+        "text": "Analiza en detalle el destino que tiene el gasto público del gobierno en lo que se refiere a actividades difíciles de medir en términos económicos",
+        "correcta": false
+      },
+      {
+        "text": "No tiene en cuenta determinadas variables sociales que generan bienestar, pero no tienen una medición económica (aire puro, instituciones eficientes, seguridad, etc.)",
+        "correcta": true
+      },
+      {
+        "text": "No dice absolutamente nada sobre cómo se distribuye el nivel de ingreso en el país.",
+        "correcta": true
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 La utilización del PIB como indicador de bienestar enfrenta una serie de limitaciones a excepción de:",
+    "respuestas": [
+      {
+        "text": "No tiene en cuenta actividades que agregan valor a la economía, pero por no tener valor de mercado no pueden contabilizarse.",
+        "correcta": true
+      },
+      {
+        "text": "Tiene en cuenta actividades que agregan valor a la economía.",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 La utilización del PBI como indicador de bienestar enfrenta una serie de limitaciones a excepción de...",
+    "respuestas": [
+      {
+        "text": "No tiene en cuenta las distorsiones del bienestar provocado por la inflacion",
+        "correcta": true
+      },
+      {
+        "text": "Tiene en cuenta las distorsiones del bienestar provocado por la inflación",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 Si el país A tiene un PBI per cápita de $5000 y el país B un PBI per cápita de $8000 (en dólares a precios constantes del 2009) podemos afirmar:",
+    "respuestas": [
+      {
+        "text": "Esto no significa, necesariamente que el país B goza de un mayor bienestar, ya que el PBI no mide cuestiones relacionadas con la distribución del ingreso, salud y ocio",
+        "correcta": true
+      },
+      {
+        "text": "El país B goza de un mayor bienestar indiscutiblemente.",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 Algunos economistas afirman que el PIB real per cápita no puede ser utilizado como medida de bienestar ya que:",
+    "respuestas": [
+      {
+        "text": "No tiene en cuenta el ocio de la que gozan los habitantes de un país, la calidad del medio ambiente y los bienes y servicios que comercian fuera del mercado",
+        "correcta": true
+      },
+      {
+        "text": "Tiene el cuenta el ocio",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "6.4 La OCDE mide el bienestar de un país con determinados indicadores estadístico. Para ello tiene tres ámbitos sobre los cuales se realizan dichas mediciones del bienestar. ¿Qué variable se analiza en el ámbito que analiza la situación económica del País? 4 opciones correctas",
+    "respuestas": [
+      {
+        "text": "La distribución de la riqueza",
+        "correcta": true
+      },
+      {
+        "text": "La situación laboral",
+        "correcta": true
+      },
+      {
+        "text": "Las condiciones de la vivienda.",
+        "correcta": true
+      },
+      {
+        "text": "La capacidad de ahorro",
+        "correcta": false
+      },
+      {
+        "text": "La salud, educación y alimentación",
+        "correcta": true
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "4.3 La canasta básica total (CBT) se determina tomando en cuenta los requerimientos normativos kilos calóricos y proteicos imprescindibles para que un varón adulto de entre 30 y 60 años, de actividad moderada, cubra durante un mes esas necesidades.",
+    "respuestas": [
+      {
+        "text": "Falso",
+        "correcta": true
+      },
+      {
+        "text": "Verdadero",
+        "correcta": false
+      }
+    ],
+    "topic": "Bienestar, PBI per Cápita e IDH"
+  },
+  {
+    "pregunta": "6.3 ¿Cuál de los siguientes indicadores considera usted que es el más conveniente para analizar elcrecimiento de un país de un período a otro?:",
+    "respuestas": [
+      {
+        "text": "PBI real",
+        "correcta": true
+      },
+      {
+        "text": "PBI nominal",
+        "correcta": false
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 ¿Cuál de las siguientes es una manera correcta de calcular el PBI (producto bruto interno) por el método del gasto?",
+    "respuestas": [
+      {
+        "text": "Consumo + inversión gasto de gobierno + exportaciones",
+        "correcta": false
+      },
+      {
+        "text": "Consumo + inversión gasto de gobierno + exportaciones - importaciones.",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 ¿Cómo se denomina la cantidad de bienes y servicios producidos por cada una unidad de trabajo?",
+    "respuestas": [
+      {
+        "text": "Se denomina productividad",
+        "correcta": true
+      },
+      {
+        "text": "Efecto de recuperación",
+        "correcta": false
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 ¿Cómo se denomina la cantidad de bienes y servicios producidos por cada unidad de trabajo?",
+    "respuestas": [
+      {
+        "text": "Se denomina trabajo per capita",
+        "correcta": false
+      },
+      {
+        "text": "Se denomina productividad",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 En economía, un incremento de la productividad significa que:",
+    "respuestas": [
+      {
+        "text": "Por cada hora de trabajo se producen más cantidades de bienes y servicios.",
+        "correcta": true
+      },
+      {
+        "text": "Cuanto menos recursos humanos se implementan más cantidades de bienes y servicios.",
+        "correcta": false
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 ¿Cuál de las siguientes afirmaciones respecto al concepto de productividad de un país es cierta?:",
+    "respuestas": [
+      {
+        "text": "Mientras menos capital humano tenga un país mayor será su productividad",
+        "correcta": false
+      },
+      {
+        "text": "Mientras más capital humano tenga un país mayor será su productividad",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 ¿Qué es el capital físico?",
+    "respuestas": [
+      {
+        "text": "Es el capital de producción para bienes y servicios",
+        "correcta": false
+      },
+      {
+        "text": "Es el conjunto de equipo y estructuras que se usan para producir bienes y servicios",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 ¿Cómo se denominan los insumos de producción que proporciona la naturaleza?",
+    "respuestas": [
+      {
+        "text": "Se denominan recursos ambientales",
+        "correcta": false
+      },
+      {
+        "text": "Se denominan recursos naturales",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 ¿Qué va a provocar una unidad extra de capital en un país que tiene un bajo nivel de capital?",
+    "respuestas": [
+      {
+        "text": "Va a provocar uan disminución en la producción",
+        "correcta": false
+      },
+      {
+        "text": "Va a provocar un gran incremento en la producción.",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 Si Argentina dispone de un alto nivel de capital se espera que una unidad extra de capital provoque:",
+    "respuestas": [
+      {
+        "text": "Un pequeño incremento en el nivel de producción",
+        "correcta": true
+      },
+      {
+        "text": "Un gran aumento en el nivel de produccíon",
+        "correcta": false
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 Dada la presencia de rendimientos decrecientes, las adiciones sucesivas de capital al stock que un país posee incrementa proporcionalmente cada vez más su productividad.",
+    "respuestas": [
+      {
+        "text": "Verdadero",
+        "correcta": false
+      },
+      {
+        "text": "Falso",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 La propiedad donde los países que son pobres tienen una tendencia a crecer a tasas más altas que los países ricos se denomina:",
+    "respuestas": [
+      {
+        "text": "Efecto de repartición",
+        "correcta": false
+      },
+      {
+        "text": "Efecto de recuperación",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.3 ¿A qué va a conducir en el largo plazo una tasa de ahorro más alta?:",
+    "respuestas": [
+      {
+        "text": "En el largo plazo, la tasa de ahorro más alta conduce a un nivel más alto de productividad y de ingreso tambien a un crecimiento mayor en esas variables.",
+        "correcta": false
+      },
+      {
+        "text": "En el largo plazo, la tasa de ahorro más alta conduce a un nivel más alto de productividad y de ingreso, pero no a un crecimiento mayor en esas variables.",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 Entre las políticas para facilitar el crecimiento económico podemos mencionar a: Selecciona 4 (cuatro) opciones correctas.",
+    "respuestas": [
+      {
+        "text": "La apertura al comercio internacional",
+        "correcta": true
+      },
+      {
+        "text": "La protección de la propiedad intelectual",
+        "correcta": true
+      },
+      {
+        "text": "La estabilidad económica y política",
+        "correcta": true
+      },
+      {
+        "text": "Generar mayor cantidad de impuestos",
+        "correcta": false
+      },
+      {
+        "text": "El crecimiento armónico del tamaño de la población",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 Entre las políticas para facilitar el crecimiento económico podemos mencionar a: Seleccione las 4 opciones correctas",
+    "respuestas": [
+      {
+        "text": "La protección de la propiedad intelectual",
+        "correcta": true
+      },
+      {
+        "text": "La apertura al comercio internacional",
+        "correcta": true
+      },
+      {
+        "text": "La estabilidad económica y política.",
+        "correcta": true
+      },
+      {
+        "text": "La actividad privada",
+        "correcta": false
+      },
+      {
+        "text": "El crecimiento armónico del tamaño de la población",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 Entre las políticas para facilitar el crecimiento económico podemos mencionar. Seleccione las4 (cuatro) opciones correctas.",
+    "respuestas": [
+      {
+        "text": "La apertura al comercio internacional",
+        "correcta": true
+      },
+      {
+        "text": "La protección de la propiedad intelectual",
+        "correcta": true
+      },
+      {
+        "text": "La instauración de subsidios al consumo privado",
+        "correcta": false
+      },
+      {
+        "text": "El crecimiento armónico del tamaño de la población",
+        "correcta": true
+      },
+      {
+        "text": "La estabilidad económica y política",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 Si el Gobierno de un país está interesado en lograr un mayor crecimiento económico debiera:",
+    "respuestas": [
+      {
+        "text": "Invertir en educación y capacitación de la fuerza laboral.",
+        "correcta": true
+      },
+      {
+        "text": "Invertir en la actividad privada",
+        "correcta": false
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.4 Una de las maneras de fomentar el crecimiento económico es a través de inversiones Extranjeras directas, es decir:",
+    "respuestas": [
+      {
+        "text": "Inversión de capital que es propiedad de una entidad extranjera y gestionada por ella",
+        "correcta": true
+      },
+      {
+        "text": "Inversión de capital que es propiedad de una entidad nacional y gestionada por ella",
+        "correcta": false
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.3 ¿Cuál de los siguientes enunciados NO corresponde a un determinante del crecimiento económico en el largo plazo?:",
+    "respuestas": [
+      {
+        "text": "las compras y las ventas",
+        "correcta": false
+      },
+      {
+        "text": "los precios de los bienes y servicios",
+        "correcta": true
+      }
+    ],
+    "topic": "Crecimiento Económico y Productividad"
+  },
+  {
+    "pregunta": "6.3 Los ciclos económicos varían en duración e intensidad, según cada contexto histórico, pero se reconocen las siguientes fases o etapas. Seleccione las 4 (cuatro) opciones correctas:",
+    "respuestas": [
+      {
+        "text": "Recuperación o expansión",
+        "correcta": true
+      },
+      {
+        "text": "Clima o Auge",
+        "correcta": true
+      },
+      {
+        "text": "Crecimiento",
+        "correcta": false
+      },
+      {
+        "text": "Recesión",
+        "correcta": true
+      },
+      {
+        "text": "Fondo o Valle",
+        "correcta": true
+      }
+    ],
+    "topic": "Ciclo Económico"
+  },
+  {
+    "pregunta": "5.1 En un período de recesión debe esperarse que:",
+    "respuestas": [
+      {
+        "text": "El desempleo aumente",
+        "correcta": true
+      },
+      {
+        "text": "El empleo aumente",
+        "correcta": false
+      }
+    ],
+    "topic": "Ciclo Económico"
+  },
+  {
+    "pregunta": "4.1 La Macroeconomía es:",
+    "respuestas": [
+      {
+        "text": "El estudio de cómo los cambios económicos afectan a los hogares, empresas y mercados.",
+        "correcta": true
+      },
+      {
+        "text": "El estudio de como los cambios económicos afectan solamente a los mercados",
+        "correcta": false
+      }
+    ],
+    "topic": "Introducción a la Macroeconomía"
+  },
+  {
+    "pregunta": "4.1 Las principales variables del estudio de la Macroeconomía son:",
+    "respuestas": [
+      {
+        "text": "El crecimiento económico, el desempleo, el tipo de cambio, la tasa de interés.",
+        "correcta": true
+      },
+      {
+        "text": "El crecimiento económico y el tipo de economía",
+        "correcta": false
+      }
+    ],
+    "topic": "Introducción a la Macroeconomía"
+  },
+  {
+    "pregunta": "4.1 Los siguientes temas corresponden al estudio de la Macroeconomía:",
+    "respuestas": [
+      {
+        "text": "el desempleo y el aumento de divisas extranjeras",
+        "correcta": false
+      },
+      {
+        "text": "El crecimiento económico, la tasa de inflación y la tasa de desempleo.",
+        "correcta": true
+      }
+    ],
+    "topic": "Introducción a la Macroeconomía"
+  },
+  {
+    "pregunta": "4.1 ¿A qué concepto corresponde la siguiente definición? “propiedad según la cual la sociedad aprovecha de la mejor manera posible”:",
+    "respuestas": [
+      {
+        "text": "Efieciencia",
+        "correcta": true
+      },
+      {
+        "text": "Ahorro",
+        "correcta": false
+      }
+    ],
+    "topic": "Conceptos Fundamentales (Eficiencia)"
+  },
+  {
+    "pregunta": "4.1 ¿A qué concepto corresponde la siguiente definición? “propiedad según la cual la sociedad aprovecha de la mejor manera posible sus recursos escasos\"",
+    "respuestas": [
+      {
+        "text": "Ahorro",
+        "correcta": false
+      },
+      {
+        "text": "Eficiencia",
+        "correcta": true
+      }
+    ],
+    "topic": "Conceptos Fundamentales (Eficiencia)"
+  },
+  {
+    "pregunta": "6.1 ¿Qué institución está a cargo de las definiciones de política monetaria?",
+    "respuestas": [
+      {
+        "text": "El F.M..I.",
+        "correcta": false
+      },
+      {
+        "text": "Banco Central",
+        "correcta": true
+      }
+    ],
+    "topic": "Dinero y Banco Central"
+  },
+  {
+    "pregunta": "6.1 La única autoridad para emitir dinero es:",
+    "respuestas": [
+      {
+        "text": "Banco Central",
+        "correcta": true
+      },
+      {
+        "text": "El F.M.I.",
+        "correcta": false
+      }
+    ],
+    "topic": "Dinero y Banco Central"
+  },
+  {
+    "pregunta": "6.1 La oferta monetaria de un país:",
+    "respuestas": [
+      {
+        "text": "Es fijada por el Banco Central",
+        "correcta": true
+      },
+      {
+        "text": "Por el poder adquisitivo de sus residentes",
+        "correcta": false
+      }
+    ],
+    "topic": "Dinero y Banco Central"
+  },
+  {
+    "pregunta": "6.1 ¿Cuáles son las funciones del dinero en términos técnicos? Seleccione 3(tres) opciones correctas:",
+    "respuestas": [
+      {
+        "text": "Es una unidad de medida",
+        "correcta": true
+      },
+      {
+        "text": "Es un medio de cambio.",
+        "correcta": true
+      },
+      {
+        "text": "Es un medio para subsistir",
+        "correcta": false
+      },
+      {
+        "text": "Es un depósito de valor.",
+        "correcta": true
+      }
+    ],
+    "topic": "Funciones del Dinero"
+  },
+  {
+    "pregunta": "6.1 Artículo que los compradores entregan a los vendedores cuando quieren comprar bienes y servicios. La anterior definición corresponde a la función del dinero como:",
+    "respuestas": [
+      {
+        "text": "Medio de subsistencia",
+        "correcta": false
+      },
+      {
+        "text": "Medio de cambio",
+        "correcta": true
+      }
+    ],
+    "topic": "Funciones del Dinero"
+  },
+  {
+    "pregunta": "6.1 En una entrevista radial se debate sobre la función del dinero en la actualidad le consultan específicamente sobre la función medio de cambio del dinero. Ante una consulta ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "La función medio de cambio del dinero hace referencia a que es un artículo que entregan los compradores a los vendedores cuando quieren comprar bienes y servicios",
+        "correcta": true
+      },
+      {
+        "text": "La función medio de cambio del dinero hace referencia a que es un artículo que entregan los vendedores a los compradores cuando quieren vender bienes y servicios",
+        "correcta": false
+      }
+    ],
+    "topic": "Funciones del Dinero"
+  },
+  {
+    "pregunta": "6.1 Cuando decimos que el dinero es una unidad de cuenta hacemos referencia",
+    "respuestas": [
+      {
+        "text": "Al criterio que las personas usan para establecer precios y registrar deudas.",
+        "correcta": true
+      },
+      {
+        "text": "Al criterio que usan los empresarios cuando toma deuda",
+        "correcta": false
+      }
+    ],
+    "topic": "Funciones del Dinero"
+  },
+  {
+    "pregunta": "6.1 Indique en cuál de las siguientes situaciones el dinero es utilizado en su función de \"depósito de valor\":",
+    "respuestas": [
+      {
+        "text": "Todos los meses las amas de casa incrementan el valor de su alcancía en $ 50.",
+        "correcta": true
+      },
+      {
+        "text": "Todos los meses los bancos comerciales incrementan el valor de su alcancía en $ 500",
+        "correcta": false
+      }
+    ],
+    "topic": "Funciones del Dinero"
+  },
+  {
+    "pregunta": "6.1 \"Artículo que pueden utilizar los individuos para transferir poder adquisitivo del presente al futuro\". La anterior corresponde a la función del dinero como:",
+    "respuestas": [
+      {
+        "text": "Dinero fiduciario",
+        "correcta": false
+      },
+      {
+        "text": "Depósito de valor.",
+        "correcta": true
+      }
+    ],
+    "topic": "Funciones del Dinero"
+  },
+  {
+    "pregunta": "6.1 Cuándo decimos que el dinero es un producto que las personas usan para transferir poder decompra del presente al futuro. ¿a qué función del dinero hacemos referencia?",
+    "respuestas": [
+      {
+        "text": "A que le dinero es una mercancía.",
+        "correcta": false
+      },
+      {
+        "text": "A que el dinero es un depósito de valor.",
+        "correcta": true
+      }
+    ],
+    "topic": "Funciones del Dinero"
+  },
+  {
+    "pregunta": "6.1 Cuáles son los dos tipos de dinero que se pueden definir en una economía?",
+    "respuestas": [
+      {
+        "text": "Dinero liquido",
+        "correcta": false
+      },
+      {
+        "text": "Dinero fiduciario.",
+        "correcta": true
+      },
+      {
+        "text": "Dinero mercancía",
+        "correcta": true
+      }
+    ],
+    "topic": "Clasificación del Dinero"
+  },
+  {
+    "pregunta": "6.1 Se entiende por liquidez de un activo, como:",
+    "respuestas": [
+      {
+        "text": "La complejidad con la que puede ser convertido en dinero",
+        "correcta": false
+      },
+      {
+        "text": "La facilidad con la que puede ser convertido en dinero",
+        "correcta": true
+      }
+    ],
+    "topic": "Liquidez y Agregados Monetarios"
+  },
+  {
+    "pregunta": "6.1 Las medidas M1 y M2 se utilizan para medir:",
+    "respuestas": [
+      {
+        "text": "La oferta y la demanda del dinero",
+        "correcta": false
+      },
+      {
+        "text": "La oferta de dinero.",
+        "correcta": true
+      }
+    ],
+    "topic": "Liquidez y Agregados Monetarios"
+  },
+  {
+    "pregunta": "6.1 ¿Cuál de los siguientes conceptos forma parte de la medida M1 de la base monetaria?",
+    "respuestas": [
+      {
+        "text": "Dépositos en el exterior",
+        "correcta": false
+      },
+      {
+        "text": "Dépositos a la vista",
+        "correcta": true
+      }
+    ],
+    "topic": "Liquidez y Agregados Monetarios"
+  },
+  {
+    "pregunta": "6.1 Siendo asesor en el Banco Central de la República Argentina lo consultan sobre en qué medida de la base monetaria podemos incluir los billetes y monedas en manos del público. ¿Cuál sería tu postura?",
+    "respuestas": [
+      {
+        "text": "Los billetes y monedas en manos del público no se incluyen en el agregado monetario M1.",
+        "correcta": false
+      },
+      {
+        "text": "Los billetes y monedas en manos del público se incluyen en el agregado monetario M1.",
+        "correcta": true
+      }
+    ],
+    "topic": "Liquidez y Agregados Monetarios"
+  },
+  {
+    "pregunta": "6.1 A que se denomina Base monetaria:",
+    "respuestas": [
+      {
+        "text": "A la suma del dinero que el público mantiene en monedas y billetes (efectivo) más las reservas de los bancos",
+        "correcta": true
+      },
+      {
+        "text": "A la suma del dinero que el público mantiene en monedas y billetes (efectivo)",
+        "correcta": false
+      }
+    ],
+    "topic": "Base y Oferta Monetaria"
+  },
+  {
+    "pregunta": "6.1 En una economía, en donde no existen los bancos comerciales, solo el banco central que emite dinero:",
+    "respuestas": [
+      {
+        "text": "La base monetaria es igual a la oferta monetaria.",
+        "correcta": true
+      },
+      {
+        "text": "No hay base monetaria",
+        "correcta": false
+      }
+    ],
+    "topic": "Base y Oferta Monetaria"
+  },
+  {
+    "pregunta": "6.1 La oferta monetaria de un país será mayor mientras:",
+    "respuestas": [
+      {
+        "text": "Mayor sea la proporción de ahorros depositados en los bancos",
+        "correcta": true
+      },
+      {
+        "text": "Mayor sea la proporción de ahorros depositados en las cajas de seguridad",
+        "correcta": false
+      }
+    ],
+    "topic": "Base y Oferta Monetaria"
+  },
+  {
+    "pregunta": "6.1 De acuerdo con las funciones de los bancos comerciales y su influencia en la economía, señale la opción correcta:",
+    "respuestas": [
+      {
+        "text": "Los bancos comerciales no influyen en la oferta monetaria de una economía.",
+        "correcta": false
+      },
+      {
+        "text": "Los bancos comerciales influyen en la oferta monetaria de una economía.",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 La creación del dinero que realizan los bancos comerciales:",
+    "respuestas": [
+      {
+        "text": "Se denomina secundaria",
+        "correcta": true
+      },
+      {
+        "text": "Se denomina terciaria",
+        "correcta": false
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Trabajando en el directorio del Banco Central de la República Argentina tiene como objetivo controlar la creación secundaria de dinero. En base a ello conoce que en Argentina los bancos comerciales tienen un coeficiente de reservas del 10%. Si se produce un depósito de $2000, ¿a cuánto asciende el nivel de reservas del segundo banco comercial teniendo en cuenta que laspersonas van a depositar el total del monto prestado por el primer banco?",
+    "respuestas": [
+      {
+        "text": "El nivel de reservas del segundo banco comercial es igual a $160.",
+        "correcta": false
+      },
+      {
+        "text": "El nivel de reservas del segundo banco comercial es igual a $180.",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Como parte del directorio del Banco Central de la República Argentina y en la necesidad de controlar la creación secundaria de dinero necesita determinar a cuánto ascienden los prestamos realizados por el segundo banco comercial tiendo en cuenta que en Argentina los bancos tiene uncoeficiente de reservas del 15% y el primer banco recibe un depósito de $5000 y se supone que las personas van a depositar el total del monto prestado por el primer banco.",
+    "respuestas": [
+      {
+        "text": "Los préstamos realizados por el segundo banco comercial van a ser de $4812.50",
+        "correcta": false
+      },
+      {
+        "text": "Los préstamos realizados por el segundo banco comercial van a ser de $3612.50",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Siendo parte del directorio del Banco Central de la República Argentina ante la necesidad de controlar la creación secundaria de dinero necesita determinar a cuánto asciende el monto de reservas del tercer banco teniendo en cuenta que en Argentina los bancos tienen un coeficiente de reservas del 5% y el primer banco comercial recibe un depósito de $ 10.000 y se supone que las personas van a depositar el total del monto prestado por el primer y segundo banco, ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "El monto de reservas del tercer banco va a ser igual a $ 541,25",
+        "correcta": false
+      },
+      {
+        "text": "El monto de reservas del tercer banco va a ser igual a $ 451,25",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Siendo asistente en el Banco de la R. Argentina le solicitan que determine el valor del multiplicador del dinero si el coeficiente de reserva es del 8%. ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": ".El multiplicador del dinero es igual a 2,5",
+        "correcta": false
+      },
+      {
+        "text": ".El multiplicador del dinero es igual a 12,5",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Al analizar la economía Argentina para la realización de un estudio de mercado en términos monetarios, necesita determinar a cuanto es igual el valor del multiplicador del dinero si el Banco Central de la República Argentina establece un porcentaje de reservas legales del 100%.¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "El multiplicador del dinero es igual a 12,5",
+        "correcta": false
+      },
+      {
+        "text": "El multiplicador del dinero es igual a 1.",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Como analista financiero en Argentina necesita determinar a cuánto asciende el efecto multiplicador de un depósito de $ 100.000 si el coeficiente de reserva legal es de 10 % y no hay reserva voluntaria por parte de los bancos comerciales. ¿Cuál sería su postura?",
+    "respuestas": [
+      {
+        "text": ".El efecto multiplicador de un depósito de $ 100.000 para este coeficiente de reserva es igual a $ 10.000.000.",
+        "correcta": false
+      },
+      {
+        "text": ".El efecto multiplicador de un depósito de $ 100.000 para este coeficiente de reserva es igual a $ 1.000.000.",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Realizando un análisis monetario de la economía argentina necesitaría determinar cuántos pesos generaría cada peso reservado si la razón de reservas es del 20%. ¿Cuál sería su análisis?",
+    "respuestas": [
+      {
+        "text": "Cada peso reservado va a generar un total de $5.",
+        "correcta": true
+      },
+      {
+        "text": "Cada peso reservado va a generar un total de $10",
+        "correcta": false
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 El multiplicador monetario…:",
+    "respuestas": [
+      {
+        "text": "Relaciona la oferta monetaria y la base monetaria",
+        "correcta": true
+      },
+      {
+        "text": "Relaciona la demanda monetaria y la base monetaria",
+        "correcta": false
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 El multiplicador monetario será mayor mientras:",
+    "respuestas": [
+      {
+        "text": "Mayor sea la reseva legal obligatoria exigida por el BCRA",
+        "correcta": false
+      },
+      {
+        "text": "Menor sea la reserva legal obligatoria exigida por el Banco Central",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 El multiplicador monetario será mayor mientras:",
+    "respuestas": [
+      {
+        "text": "Mayor sean las reservas legales exigidas a los bancos.",
+        "correcta": false
+      },
+      {
+        "text": "Menor sean las reservas legales exigidas a los bancos.",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Habrá mayor creación de dinero secundario o bancario si:",
+    "respuestas": [
+      {
+        "text": "Los encajes mínimos legales exigidos por el banco central son aumentados, los bancos comerciales deciden mantenerlos en el mínimo y no reservar un monto mayor.",
+        "correcta": false
+      },
+      {
+        "text": "Los encajes mínimos legales exigidos por el banco central son reducidos, los bancos comerciales deciden mantenerlos en el mínimo y no reservar un monto mayor.",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 En lo que respecta a la razón de reservas podemos afirmar que:",
+    "respuestas": [
+      {
+        "text": "Mientras más baja sea la razón de reservas más prestan los bancos de cada depósito y el multiplicador de dinero es más bajo",
+        "correcta": false
+      },
+      {
+        "text": "Mientras más baja sea la razón de reservas más prestan los bancos de cada depósito y el multiplicador de dinero es más alto",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Si los depositantes deciden retirar gran mayoría de su dinero guardado en los bancos, esto provocaría:",
+    "respuestas": [
+      {
+        "text": "Una disminución en la oferta monetario en la economía debido al efecto divisor bancario",
+        "correcta": false
+      },
+      {
+        "text": "Una disminución en la oferta monetario en la economía debido al efecto multiplicador bancario",
+        "correcta": true
+      }
+    ],
+    "topic": "Multiplicador y Creación Secundaria de Dinero"
+  },
+  {
+    "pregunta": "6.1 Siendo miembro del directorio del Banco Comercial Kim Gordon pudo determinar que el banco tiene en su pasivo depósitos por un total de $1.000 millones. Por otro lado, en su activo tiene reservas por 100 millones. ¿A cuánto asciende su razón de reservas?",
+    "respuestas": [
+      {
+        "text": "La razón de reservas del Banco Comercial Kim Gordon asciende al 10%",
+        "correcta": true
+      },
+      {
+        "text": "La razón de reservas del Banco Comercial Kim Gordon asciende al 20%",
+        "correcta": false
+      }
+    ],
+    "topic": "Reservas y Coeficiente de Reserva"
+  },
+  {
+    "pregunta": "6.1 Como analista económico necesita determinar a cuánto asciende la razón de reservas fijada por el Banco Comercial Kim Gordo teniendo en cuenta que la institución recibe un depósito de $250.000 mantiene como reserva $ 50.000. ¿Cuál sería su postura?",
+    "respuestas": [
+      {
+        "text": "La razón de reserva fijada por el Banco Comercial es igual al 20%.",
+        "correcta": true
+      },
+      {
+        "text": "La razón de reserva fijada por el Banco Comercial es igual al 25%",
+        "correcta": false
+      }
+    ],
+    "topic": "Reservas y Coeficiente de Reserva"
+  },
+  {
+    "pregunta": "6.1 El Banco Central de la República Argentina estableció el 10% como porcentaje de la constitución de reservas legales, siendo gerente del banco comercial Kim Gordon ¿Qué monto de reserva legal deberá mantener ante un deposito recibido por el banco de $ 50.000?",
+    "respuestas": [
+      {
+        "text": "Deberá dejarse constituido como reserva legal un monto igual a $ 500",
+        "correcta": false
+      },
+      {
+        "text": "Deberá dejarse constituido como reserva legal un monto igual a $ 5.000",
+        "correcta": true
+      }
+    ],
+    "topic": "Reservas y Coeficiente de Reserva"
+  },
+  {
+    "pregunta": "6.1 ¿Cuál de los siguientes es un instrumento de control monetario del Banco Central?:",
+    "respuestas": [
+      {
+        "text": "Las reservas obligatorias fijadas por el Banco Central.",
+        "correcta": true
+      },
+      {
+        "text": "Todas las reservas fijadas por el Banco Central",
+        "correcta": false
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "6.1 ¿Cuál de los siguientes es un instrumento del Banco Central para controlar la cantidad de dinero?",
+    "respuestas": [
+      {
+        "text": "El nivel de encajes o reservas legales obligatorias.",
+        "correcta": true
+      },
+      {
+        "text": "Solo las reservas legales obligatorias o no.",
+        "correcta": false
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "5.3 ¿Cuál de los siguientes NO es un instrumento básico de política del Banco Central?:",
+    "respuestas": [
+      {
+        "text": "Fijación de impuestos a la actividad financiera.",
+        "correcta": true
+      },
+      {
+        "text": "Control de los Recursos Naturales",
+        "correcta": false
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "5.3 ¿Cuál de los siguientes NO es un instrumento del Banco Central para controlar la cantidad de dinero?:",
+    "respuestas": [
+      {
+        "text": "El nivel de inflación",
+        "correcta": false
+      },
+      {
+        "text": "El nivel de impuestos",
+        "correcta": true
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "6.1 Si el Banco Central aumenta la exigencia de reservas que deben mantener los bancos:",
+    "respuestas": [
+      {
+        "text": "Hay una mayor creación de dinero secundario.",
+        "correcta": false
+      },
+      {
+        "text": "Hay una menor creación de dinero secundario.",
+        "correcta": true
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "6.1 Si el Banco Central aumenta la exigencia de reservas que deben mantener los bancos:",
+    "respuestas": [
+      {
+        "text": "Hay una mayor creacion de dinero secundario.",
+        "correcta": false
+      },
+      {
+        "text": "Hay una menor creación de dinero secundario.",
+        "correcta": true
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "6.1 Si el B.C.R.A decide disminuir el coeficiente de reservas en la economía, ¿Cuál será el efecto del mismo en el sistema monetario?:",
+    "respuestas": [
+      {
+        "text": "Mayor es la cantidad de cada depósito que prestan los bancos, más alto el multiplicador del dinero y los bancos crean más dinero.",
+        "correcta": true
+      },
+      {
+        "text": "Menor es la cantidad de cada depósito que prestan los bancos, más alto el multiplicador del dinero y los bancos crean menos dinero.",
+        "correcta": false
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "6.1 Ante la necesidad de inyectar dinero en la economía argentina, como asesor financiero del Banco Central de la República Argentina, ¿qué tipo de herramienta puede utilizar la autoridad monetaria del país para incrementar la oferta de dinero?",
+    "respuestas": [
+      {
+        "text": "El Banco Central de la República Argentina podría disminuir los requisitos de reservas legales",
+        "correcta": true
+      },
+      {
+        "text": "El Banco Central de la República Argentina podría aumentar los requisitos de reservas legales",
+        "correcta": false
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "5.3 Si el Banco central desea aumentar la oferta monetaria, debería:",
+    "respuestas": [
+      {
+        "text": "Aumentar la tasa de redescuento, compra de bonos a los particulares o disminuir los encajes bancarios exigidos",
+        "correcta": false
+      },
+      {
+        "text": "Disminuir la tasa de redescuento, compra de bonos a los particulares o disminuir los encajes bancarios exigidos",
+        "correcta": true
+      }
+    ],
+    "topic": "Instrumentos de Política Monetaria"
+  },
+  {
+    "pregunta": "5.3 ¿Dónde se producirá el nuevo equilibrio en el mercado del dinero si hay un incremento en el nivel de precios?",
+    "respuestas": [
+      {
+        "text": "En la tasa de interés que será mayor y la cantidad de dinero la misma",
+        "correcta": true
+      },
+      {
+        "text": "En el PBI",
+        "correcta": false
+      }
+    ],
+    "topic": "Mercado Monetario y Tasa de Interés"
+  },
+  {
+    "pregunta": "6.1 Una subida en el nivel de precios tiene los siguientes efectos en el mercado monetario:",
+    "respuestas": [
+      {
+        "text": "Aumenta la demanda de dinero y aumenta la tasa de interés de equilibrio.",
+        "correcta": true
+      },
+      {
+        "text": "Disminuye la demanda de dinero y baja la tasa de interés de equilibrio.",
+        "correcta": false
+      }
+    ],
+    "topic": "Mercado Monetario y Tasa de Interés"
+  },
+  {
+    "pregunta": "6.1 Una disminución en el nivel de precios, tiene los siguientes efectos en el mercado monetario:",
+    "respuestas": [
+      {
+        "text": "Aumenta la demanda de dinero y disminuye la tasa de interés de equilibrio",
+        "correcta": false
+      },
+      {
+        "text": "Disminuye la demanda de dinero y disminuye la tasa de interés de equilibrio",
+        "correcta": true
+      }
+    ],
+    "topic": "Mercado Monetario y Tasa de Interés"
+  },
+  {
+    "pregunta": "5.3 ¿Qué afirma la \"Teoría de la Preferencia por la Liquidez\"?",
+    "respuestas": [
+      {
+        "text": "El tipo de interés se ajusta para equilibrar el mercado del dinero",
+        "correcta": true
+      },
+      {
+        "text": "El tipo de interés se ajusta para desiquilibrar el mercado del dinero",
+        "correcta": false
+      }
+    ],
+    "topic": "Mercado Monetario y Tasa de Interés"
+  },
+  {
+    "pregunta": "5.3 Una característica de la oferta de dinero es que:",
+    "respuestas": [
+      {
+        "text": "Es perfectamente elástica con respecto a la tasa de interés",
+        "correcta": false
+      },
+      {
+        "text": "Es perfectamente inelástica con respecto a la tasa de interés",
+        "correcta": true
+      }
+    ],
+    "topic": "Mercado Monetario y Tasa de Interés"
+  },
+  {
+    "pregunta": "6.2 La ecuación cuantitativa del dinero puede escribirse como:",
+    "respuestas": [
+      {
+        "text": "M x V = P x Y (donde V es la velocidad del dinero, P es el nivel de precios, Y es el PBI nominal y M es la Oferta Monetaria",
+        "correcta": false
+      },
+      {
+        "text": "M x V = P x Y (donde V es la velocidad del dinero, P es el nivel de precios, Y es el PBI real y M es la Oferta Monetaria",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 ¿Cómo se calcula la velocidad de circulación del dinero (V) teniendo en cuenta que P es el nivel de precios, Y la cantidad de producción y M la cantidad de dinero?",
+    "respuestas": [
+      {
+        "text": "La velocidad de circulación del dinero se calcula como: V= (PxY)*M",
+        "correcta": false
+      },
+      {
+        "text": "La velocidad de circulación del dinero se calcula como: V= (PxY)/M",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 Trabajando en INDEC le solicitan que determine a cuanto es igual la velocidad de circulación del dinero (V) en Argentina si la oferta de dinero (M) del país asciende a $2.000, el nivel de producto (Y) es de $200 y el nivel de precios es de $15 ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "La velocidad de circulación del dinero (V) en Argentina es igual a 2,5",
+        "correcta": false
+      },
+      {
+        "text": "La velocidad de circulación del dinero (V) en Argentina es igual a 1,5",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 Al realizar una investigación de mercado se encuentra ante la necesidad de calcular la velocidad de circulación del dinero teniendo en cuenta que en Argentina se producen 200 unidades de un bien en un año, cada unidad se vende a $20 y la cantidad de dinero que hay en el país es de $100. Ante esto ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "La velocidad de circulación del dinero en Argentina es igual a $200",
+        "correcta": false
+      },
+      {
+        "text": "La velocidad de circulación del dinero en Argentina es igual a $40",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 Como uno de los responsables deI INDEC necesita determinar a cuánto asciende el nivel de precios de Argentina teniendo en cuenta que la oferta de dinero (M) en el país es de $1000, el nivel de producción (Y) es $100 y la velocidad de circulación del dinero (V) es 5.¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "El nivel de precios en argentina asciende a 50",
+        "correcta": true
+      },
+      {
+        "text": "El nivel de precios en argentina asciende a 500",
+        "correcta": false
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 Como asesor en INDEC le solicitan que determine, en función de la ecuación cuantitativa del dinero, el nivel de producción de Argentina teniendo en cuenta que la Oferta Monetaria (M) es igual a 800, la velocidad de circulación del dinero (V) es igual a 5 y el nivel de precios (P) también es 5. ¿Cuál sería su respuesta ante lo planteado?",
+    "respuestas": [
+      {
+        "text": "El nivel de producción de Argentina es igual a 800",
+        "correcta": true
+      },
+      {
+        "text": "El nivel de producción de Argentina es igual a 4000",
+        "correcta": false
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 Según la teoría cuantitativa del dinero, en el largo plazo, los componentes que no cambian son:",
+    "respuestas": [
+      {
+        "text": "Velocidad en emisión del dinero",
+        "correcta": false
+      },
+      {
+        "text": "Velocidad de circulación del dinero.",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 ¿Cuál de los siguientes son los pasos que representa la esencia de la teoría cuantitativa del dinero? Seleccione las 4(cuatro) opciones correctas",
+    "respuestas": [
+      {
+        "text": "Con la producción (Y) determinada por las ofertas de factores y la tecnología cuando el Banco central modifica la oferta de dinero (M) e induce cambios proporcionales en el valor nominal de la producción (PxY), estos cambios se reflejan en cambios en el nivel de precios (P)",
+        "correcta": true
+      },
+      {
+        "text": "La velocidad del dinero es realmente estable a lo largo del tiempo por lo que, cuando el Banco Central modifica la cantidad de dinero (M) causa cambios proporcionales en el valor nominal de la producción (P x Y)",
+        "correcta": true
+      },
+      {
+        "text": "La velocidad del dinero se modifica de manera relativamente rápida a lo largo del tiempo por lo que, cuando el Banco Central incrementa la cantidad de dinero (M), no causa cambios proporcionales en el valor nominal de la producción (PxY)",
+        "correcta": false
+      },
+      {
+        "text": "Cuando el Banco Central incrementa rápidamente la oferta de dinero, el resultado es una alta tasa de inflación",
+        "correcta": true
+      },
+      {
+        "text": "La producción de bienes y servicios (y) está determinada primordialmente por las ofertas de factores (trabajo, capital físico, capital humano y recursos naturales) y la tecnología de producción disponible. En particular, debido a que el dinero es neutral no afecta a la producción",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 Teniendo en cuenta que la producción (Y) de un país está determinada por los factores de la oferta (trabajo, capital físico, capital humano y recursos naturales) y la producción tecnológica disponible, si el Banco Central de la República Argentina afecta la oferta de dinero (M) a través de políticas monetarias e induce a cambios proporcionales en el valor nominal de la producción (P x Y), esos cambios, ¿Dónde se van a traducir?",
+    "respuestas": [
+      {
+        "text": "Esos cambios se van a traducir en nivel de precios (P) de la región en cuestión.",
+        "correcta": false
+      },
+      {
+        "text": "Esos cambios se van a traducir en nivel de precios (P) del país.",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 La ecuación cuantitativa del dinero muestra que una caída en la cantidad de dinero puede verse reflejada ¿en cuál de las siguientes variables? Selecciones las 2 (dos) opciones correctas:",
+    "respuestas": [
+      {
+        "text": "La velocidad de circulación del dinero deberá caer",
+        "correcta": false
+      },
+      {
+        "text": "El nivel de precios deberá caer",
+        "correcta": true
+      },
+      {
+        "text": "La cantidad de producto deberá caer.",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 La ecuación cuantitativa del dinero muestra que un incremento en la cantidad de dinero se puede ver reflejada ¿en qué variables? Seleccione las 3 (tres) opciones correctas",
+    "respuestas": [
+      {
+        "text": "El nivel de precios deberá caer",
+        "correcta": false
+      },
+      {
+        "text": "La cantidad de productos deberá caer",
+        "correcta": false
+      },
+      {
+        "text": "La velocidad de circulación del dinero deberá caer",
+        "correcta": true
+      },
+      {
+        "text": "El nivel de precios deberá crecer",
+        "correcta": true
+      },
+      {
+        "text": "La cantidad de productos deberá crecer",
+        "correcta": true
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 Si la velocidad de circulación del dinero se mantiene constante a lo largo de un período de tiempo, la economía se encuentra en una situación de pleno empleo de factores y el Banco Central decide incrementar la oferta monetaria:",
+    "respuestas": [
+      {
+        "text": "Entonces se incrementará proporcionalmente el valor nominal de la producción, dado que el nivel real de producción está determinado principalmente por la oferta de factores aumentará el nivel general de precios de la economía.",
+        "correcta": true
+      },
+      {
+        "text": "Entonces se disminuirá proporcionalmente el valor nominal de la producción, dado que el nivel real de producción está determinado principalmente por la oferta de factores aumentará el nivel general de precios de la economía.",
+        "correcta": false
+      }
+    ],
+    "topic": "Teoría Cuantitativa del Dinero"
+  },
+  {
+    "pregunta": "6.2 La Teoría Clásica señala como fuente primordial del crecimiento de los precios a:",
+    "respuestas": [
+      {
+        "text": "El aumento de la emisión monetaria.",
+        "correcta": true
+      },
+      {
+        "text": "El aumento de los precios",
+        "correcta": false
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 La consecuencia más probable de una emisión monetaria, si no hay demanda suficiente de dinero, es:",
+    "respuestas": [
+      {
+        "text": "El aumento generalizado de los precios",
+        "correcta": true
+      },
+      {
+        "text": "la disminución generalizada de los precios",
+        "correcta": false
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 La consecuencia más probable de una emisión monetaria, si no hay demanda suficiente de dinero, es:",
+    "respuestas": [
+      {
+        "text": "El aumento generalizado de los precios",
+        "correcta": true
+      },
+      {
+        "text": "El aumento de algunos precios",
+        "correcta": false
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 Uno de los efectos más probables de un aumento en la oferta monetaria es:",
+    "respuestas": [
+      {
+        "text": "Un aumento generalizado de los precios",
+        "correcta": true
+      },
+      {
+        "text": "Un aumento de los precios de electrodométicos",
+        "correcta": false
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 La emisión monetaria.:",
+    "respuestas": [
+      {
+        "text": "Se relaciona negativamente con el aumento generalizado de los precios.",
+        "correcta": false
+      },
+      {
+        "text": "Se relaciona positivamente con el aumento generalizado de los precios.",
+        "correcta": true
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 Partiendo de una situación de equilibrio en el mercado del dinero, si el Banco Central compra bonos se producirá:",
+    "respuestas": [
+      {
+        "text": "Un aumento en la oferta monetaria, provocando una suba en el nivel de precios y una reducción en el valor del dinero.",
+        "correcta": true
+      },
+      {
+        "text": "Un aumento en la oferta monetaria, provocando una suba en el nivel de precios y un aumento en el valor del dinero.",
+        "correcta": false
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 Cuando aumenta la oferta de dinero, sin que se aumente el nivel de producción, según la teoría cuantitativa del dinero, esto provoca:",
+    "respuestas": [
+      {
+        "text": "Una disminución en el valor del dinero y un aumento en el nivel de precios",
+        "correcta": true
+      },
+      {
+        "text": "Una aumento en el valor del dinero y un aumento en el nivel de precios",
+        "correcta": false
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 Si el nivel general de precios aumenta es de esperar q el valor del dinero:",
+    "respuestas": [
+      {
+        "text": "Disminuya",
+        "correcta": true
+      },
+      {
+        "text": "Aumente",
+        "correcta": false
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 Cuando existe deflación:",
+    "respuestas": [
+      {
+        "text": "El valor del dinero aumenta",
+        "correcta": true
+      },
+      {
+        "text": "El valor del dinero disminuye",
+        "correcta": false
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 Cuando existe deflación:",
+    "respuestas": [
+      {
+        "text": "El dinero vale menos",
+        "correcta": false
+      },
+      {
+        "text": "El valor del dinero aumenta",
+        "correcta": true
+      }
+    ],
+    "topic": "Inflación y Deflación"
+  },
+  {
+    "pregunta": "6.2 El aumento sostenido y generalizado de precios de la economía tiene como consecuencia:",
+    "respuestas": [
+      {
+        "text": "La reducción del poder de compra real de los individuos",
+        "correcta": true
+      },
+      {
+        "text": "Mayor cantidad de compra de los individuos",
+        "correcta": false
+      }
+    ],
+    "topic": "Costos de la Inflación"
+  },
+  {
+    "pregunta": "6.3 El costo de suela de zapato es una consecuencia de la inflación que consiste en:",
+    "respuestas": [
+      {
+        "text": "La pérdida de tiempo y recursos para reducir las tenencias de dinero",
+        "correcta": true
+      },
+      {
+        "text": "Se ganan tiempo y recursos para reducir las tenencias de dinero",
+        "correcta": false
+      }
+    ],
+    "topic": "Costos de la Inflación"
+  },
+  {
+    "pregunta": "6.2 ¿Cuál de los siguientes no es un costo asociado a la inflación?:",
+    "respuestas": [
+      {
+        "text": "Costo de oportunidad",
+        "correcta": true
+      },
+      {
+        "text": "Costo de producción",
+        "correcta": false
+      }
+    ],
+    "topic": "Costos de la Inflación"
+  },
+  {
+    "pregunta": "6.2 Ante un contexto inflacionario, diga cual de las siguientes acciones considera que mejor gestiona el dinero frente a su desvalorización:",
+    "respuestas": [
+      {
+        "text": "Venta de bienes",
+        "correcta": false
+      },
+      {
+        "text": "Compra de bienes",
+        "correcta": true
+      }
+    ],
+    "topic": "Costos de la Inflación"
+  },
+  {
+    "pregunta": "6.2 Ante un contexto inflacionario, diga cual de las siguientes acciones considera que mejor gestiona el dinero frente a su desvalorización:",
+    "respuestas": [
+      {
+        "text": "Venta de bienes",
+        "correcta": false
+      },
+      {
+        "text": "Compra de bienes",
+        "correcta": true
+      }
+    ],
+    "topic": "Costos de la Inflación"
+  },
+  {
+    "pregunta": "6.3 El impuesto inflacionario es una consecuencia de la inflación que consiste en:",
+    "respuestas": [
+      {
+        "text": "La merma del poder de ahorro de las tenencias de dinero",
+        "correcta": false
+      },
+      {
+        "text": "La merma del poder de compra de las tenencias de dinero",
+        "correcta": true
+      }
+    ],
+    "topic": "Costos de la Inflación"
+  },
+  {
+    "pregunta": "6.2 La ecuación cuantitativa del dinero:",
+    "respuestas": [
+      {
+        "text": "Muestra cual es la causa de la inflación: la emisión monetaria.",
+        "correcta": true
+      },
+      {
+        "text": "Es proporcvional al ingreso per capita",
+        "correcta": false
+      }
+    ],
+    "topic": "Regla y Efecto Fisher"
+  },
+  {
+    "pregunta": "6.2 ¿A cuánto va a ser igual el valor real de los depósitos en el término de un año si un banco comercial fija una tasa de interés del 20% anual y la tasa de inflación es del 15% anual?",
+    "respuestas": [
+      {
+        "text": "El valor real de los depósitos en el término de un año va a ser igual al 5%",
+        "correcta": true
+      },
+      {
+        "text": "El valor real de los depósitos en el término de dos años va a ser igual al 5%",
+        "correcta": false
+      }
+    ],
+    "topic": "Regla y Efecto Fisher"
+  },
+  {
+    "pregunta": "6.2 ¿A cuánto va a ser igual el valor real de los depósitos en el término de un año si un banco comercial fija una tasa de interés del 20% anual y la tasa de inflación es del 15% anual?",
+    "respuestas": [
+      {
+        "text": "El valor real de los depósitos en el término de un año va a ser igual al -5%",
+        "correcta": false
+      },
+      {
+        "text": "El valor real de los depósitos en el término de un año va a ser igual al 5%",
+        "correcta": true
+      }
+    ],
+    "topic": "Regla y Efecto Fisher"
+  },
+  {
+    "pregunta": "6.2 ¿A cuánto debe ascender la tasa de interés nominal que debería ofrecer un banco si la tasa de interés real es igual al 15% y la tasa de inflación asciende al 10%?",
+    "respuestas": [
+      {
+        "text": "La tasa de interés nominal que debería ofrecer el banco es igual al 25%",
+        "correcta": true
+      },
+      {
+        "text": "La tasa de interés nominal que debería ofrecer el banco es igual al 2,5%",
+        "correcta": false
+      }
+    ],
+    "topic": "Regla y Efecto Fisher"
+  },
+  {
+    "pregunta": "6.1 El crecimiento de los tipos de interés nominales ocasionados por la inflación, es un fenómeno que se denomina:",
+    "respuestas": [
+      {
+        "text": "Efecto monetario",
+        "correcta": false
+      },
+      {
+        "text": "Efecto Fisher",
+        "correcta": true
+      }
+    ],
+    "topic": "Regla y Efecto Fisher"
+  },
+  {
+    "pregunta": "6.1 El efecto Fisher explica:",
+    "respuestas": [
+      {
+        "text": "Cómo la inflación afecta al tipo de interés nominal.",
+        "correcta": true
+      },
+      {
+        "text": "Cómo la inflación afecta al tipo de interés bruto",
+        "correcta": false
+      }
+    ],
+    "topic": "Regla y Efecto Fisher"
+  },
+  {
+    "pregunta": "6.2 Cuando las variables desempleo e inflación se encuentran negativamente relacionadas, estamos ante:",
+    "respuestas": [
+      {
+        "text": "Curva de Phillips",
+        "correcta": true
+      },
+      {
+        "text": "Un aumento generalizado de precios",
+        "correcta": false
+      }
+    ],
+    "topic": "Curva de Phillips"
+  },
+  {
+    "pregunta": "6.2 Cuando las variables desempleo e inflación se encuentran negativamente relacionadas, estamos ante:",
+    "respuestas": [
+      {
+        "text": "Reglas de Fisher",
+        "correcta": false
+      },
+      {
+        "text": "Curva de Phillips",
+        "correcta": true
+      }
+    ],
+    "topic": "Curva de Phillips"
+  },
+  {
+    "pregunta": "6.2 La Curva de Phillips es",
+    "respuestas": [
+      {
+        "text": "En el largo plazo igual a la tasa natural de desempleo a cualquier tasa de inflación",
+        "correcta": true
+      },
+      {
+        "text": "En el corto plazo igual a la tasa natural de desempleo a cualquier tasa de inflación",
+        "correcta": false
+      }
+    ],
+    "topic": "Curva de Phillips"
+  },
+  {
+    "pregunta": "6.2 La curva de Philips relaciona las siguientes variables:",
+    "respuestas": [
+      {
+        "text": "La tasa de inflación y los precios",
+        "correcta": false
+      },
+      {
+        "text": "Tasa de desempleo y tasa de inflación",
+        "correcta": true
+      }
+    ],
+    "topic": "Curva de Phillips"
+  },
+  {
+    "pregunta": "5.1 ¿Cuáles son las razones por las cuales la representación de la demanda agregada se presenta como una relación inversa entre el nivel de precios y el producto? 3 correctas",
+    "respuestas": [
+      {
+        "text": "Efecto consumo",
+        "correcta": false
+      },
+      {
+        "text": "Efecto tipo de cambio",
+        "correcta": true
+      },
+      {
+        "text": "Efecto riqueza",
+        "correcta": true
+      },
+      {
+        "text": "Efecto tipo de interés.",
+        "correcta": true
+      },
+      {
+        "text": "Efecto gasto público",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada"
+  },
+  {
+    "pregunta": "5.1 La Demanda Agregada tiene pendiente negativa. Es decir que al disminuir el nivel de precios de una economía, la cantidad demandada de bienes y servicios aumenta. Esto se debe a que al disminuir los precios:",
+    "respuestas": [
+      {
+        "text": "Los consumidores se sienten más ricos, lo cual estimula el consumo de bienes y servicios",
+        "correcta": true
+      },
+      {
+        "text": "Los consumidores sienten cierta inseguridad",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada"
+  },
+  {
+    "pregunta": "5.1 Un descenso en el nivel de precios lleva a los consumidores a sentirse más ricos, lo cual los anima a su vez a gastar más. El aumento del gasto de consumo eleva la cantidad demandada de bienes y servicios. Este efecto se denomina:",
+    "respuestas": [
+      {
+        "text": "Efecto riqueza de Pierre",
+        "correcta": false
+      },
+      {
+        "text": "Efecto riqueza de Piugo.",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Efectos"
+  },
+  {
+    "pregunta": "5.1 Cómo podemos medir el efecto riqueza?",
+    "respuestas": [
+      {
+        "text": "Lo podemos medir a través del nivel de precios y el consumo.",
+        "correcta": true
+      },
+      {
+        "text": "Lo podemos medir a través del ingreso Per Cápita",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada: Efectos"
+  },
+  {
+    "pregunta": "5.1 Si bien los efectos riqueza, tipo interés y tipo de cambio se complementan, el efecto riqueza suele ser el más relevante en términos cuantitativos.",
+    "respuestas": [
+      {
+        "text": "Falso",
+        "correcta": true
+      },
+      {
+        "text": "Verdadero",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada: Efectos"
+  },
+  {
+    "pregunta": "5.1 Como asesor financiero de la empresa Salvapantallas S.R.L. pudo determinar, luego de varios análisis y búsqueda de información, que durante el presente año los precios van a aumentar con lo cual es importante determinar respuestas al siguiente interrogante, ¿cómo el efecto riqueza va a impactar en la economía ante el inminente aumento de precios? Seleccione las 4 (cuatro) opciones correctas:",
+    "respuestas": [
+      {
+        "text": "Disminuirá la demanda agregada",
+        "correcta": true
+      },
+      {
+        "text": "Disminuirá la producción y el ingreso de la economía",
+        "correcta": true
+      },
+      {
+        "text": "Disminuirá el poder adquisitivo de las personas.",
+        "correcta": true
+      },
+      {
+        "text": "Disminuirá el consumo",
+        "correcta": true
+      },
+      {
+        "text": "Disminuirá la oferta agregada",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada: Efectos"
+  },
+  {
+    "pregunta": "5.1 Como director del departamento de inversiones de la empresa Salvapantallas S.R.L. necesita determinar como el efecto tipo interés va a impactar en la economía ante un aumento en los precios durante el presente año. ¿Cuáles serán sus consideraciones? Seleccione las 4 (cuatro) opciones correctas:",
+    "respuestas": [
+      {
+        "text": "Aumento de la tasa de interés y disminución de las inversiones.",
+        "correcta": true
+      },
+      {
+        "text": "Hay menos dinero disponible para prestar.",
+        "correcta": true
+      },
+      {
+        "text": "Aumento de la demanda agregada y aumentan las inversiones",
+        "correcta": false
+      },
+      {
+        "text": "Disminución del poder adquisitivo de las personas",
+        "correcta": true
+      },
+      {
+        "text": "Disminución de la demanda agregada, de la producción y el ingreso de la economía.",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Efectos"
+  },
+  {
+    "pregunta": "5.1 Al ser responsable del departamento de comercio exterior de la empresa Salvapantalla S.R.L. Necesita determinar: ¿Cómo el efecto tipo de cambio va a impactar en la economía ante un aumento de los precios durante el presente año? 4 correctas.",
+    "respuestas": [
+      {
+        "text": "Impactará en el aprecio a la moneda local, disminuyendo así las exportaciones",
+        "correcta": true
+      },
+      {
+        "text": "La moneda local se deprecia y aumentan las exportaciones",
+        "correcta": false
+      },
+      {
+        "text": "Impactará en el aumento de la tasa de interés e ingreso de capitales.",
+        "correcta": true
+      },
+      {
+        "text": "Impactará en la disminución de la demanda agregada, la producción y el ingreso de la economía",
+        "correcta": true
+      },
+      {
+        "text": "Impactará en la disminución del poder adquisitivo de las personas",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Efectos"
+  },
+  {
+    "pregunta": "5.1 Al ser responsable del departamento de comercio exterior de la empresa Salvapantallas S.R.L necesita determinar lo siguiente: ¿Cómo el efecto tipo de cambio va a impactar en la economía ante un aumento en los precios durante el presente año? Seleccione las 4 (cuatro) opciones correctas:",
+    "respuestas": [
+      {
+        "text": "Impactará en la disminución del poder adquisitivo de las personas",
+        "correcta": true
+      },
+      {
+        "text": "La moneda local se deprecia y aumentan las exportaciones",
+        "correcta": false
+      },
+      {
+        "text": "Impactará en la disminución de la demanda agregada, la producción y el ingreso de la economía",
+        "correcta": true
+      },
+      {
+        "text": "Impactará en el aprecio a la moneda local, disminuyendo así las exportaciones",
+        "correcta": true
+      },
+      {
+        "text": "Impactará en el aumento de la tasa de interés e ingreso de capitales",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Efectos"
+  },
+  {
+    "pregunta": "5.1 ¿Qué efecto determinan el nivel de precios y la inversión?",
+    "respuestas": [
+      {
+        "text": "Determinan el efecto tipo de capital",
+        "correcta": false
+      },
+      {
+        "text": "Determinan el efecto tipo de interés",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Efectos"
+  },
+  {
+    "pregunta": "5.2 Cuáles son los determinantes que generan desplazamientos de la curva de demanda agregada? 4 opciones correctas.",
+    "respuestas": [
+      {
+        "text": "Cambios en la inversión",
+        "correcta": true
+      },
+      {
+        "text": "Cambios en las compras del estado",
+        "correcta": true
+      },
+      {
+        "text": "Cambios en los recursos naturales",
+        "correcta": false
+      },
+      {
+        "text": "Cambios en el consumo",
+        "correcta": true
+      },
+      {
+        "text": "Cambios en las exportaciones netas",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Desplazamientos"
+  },
+  {
+    "pregunta": "6.1 Una subida en el nivel de precios, desplaza la curva de demanda de dinero hacia la:",
+    "respuestas": [
+      {
+        "text": "Derecha y disminuye la cantidad demandada de bienes y servicios",
+        "correcta": true
+      },
+      {
+        "text": "Izquierda y disminuye la cantidad demandada de bienes y servicios",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada: Desplazamientos"
+  },
+  {
+    "pregunta": "6.3 Cuál de las siguientes situaciones provocaría un aumento en la demanda agregada de bienes y servicios provocando un desplazamiento de esta hacia la derecha?:",
+    "respuestas": [
+      {
+        "text": "Desarrollo de un plan de obras públicas",
+        "correcta": true
+      },
+      {
+        "text": "La construcción de una empresa privada",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada: Desplazamientos"
+  },
+  {
+    "pregunta": "5.2 Siendo asesor del Ministerio de Economia se encuentra ante la disyuntiva de determinar cuáles de los siguientes efectos permitirían reactivar la economía del país mediante un aumento de la Demanda Agregada ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "Una devaluación que aumente el valor del tipo de cambio",
+        "correcta": true
+      },
+      {
+        "text": "Una devalución que disminuya el valor del tipo de cambio",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada: Desplazamientos"
+  },
+  {
+    "pregunta": "5.3 Si un gobierno planea expandir la demanda agregada de la economía, puede hacerlo mediante:",
+    "respuestas": [
+      {
+        "text": "Menos gasto público y más impuestos",
+        "correcta": false
+      },
+      {
+        "text": "Una política fiscal expansiva, es decir, mayor gasto público y menos impuestos.",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Políticas Fiscales/Monetarias"
+  },
+  {
+    "pregunta": "5.3 Como asesor presidencial en economía necesita determinar que efecto provocará una baja en los impuestos en el país ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "Un aumento en los impuestos generará un aumento en la demanda agregada",
+        "correcta": false
+      },
+      {
+        "text": "Una baja en los impuestos generará un aumento en la demanda agregada",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Políticas Fiscales/Monetarias"
+  },
+  {
+    "pregunta": "5.2 ¿A través de qué componente afectará la Demanda Agregada una política monetaria expansiva por parte del Estado Nacional?:",
+    "respuestas": [
+      {
+        "text": "Consumo e Inversión",
+        "correcta": true
+      },
+      {
+        "text": "Capital e Inversión",
+        "correcta": false
+      }
+    ],
+    "topic": "Demanda Agregada: Políticas Fiscales/Monetarias"
+  },
+  {
+    "pregunta": "5.3 ¿Cómo pueden ser descriptos los cambios en la política monetaria que tratan de expandir la demanda agregada?:",
+    "respuestas": [
+      {
+        "text": "Pueden ser descriptos como incrementos en la demanda de dinero o bajas en la tasa de interés",
+        "correcta": false
+      },
+      {
+        "text": "Pueden ser descriptos como incrementos en la oferta de dinero o bajas en la tasa de interés",
+        "correcta": true
+      }
+    ],
+    "topic": "Demanda Agregada: Políticas Fiscales/Monetarias"
+  },
+  {
+    "pregunta": "5.2 ¿Cómo es la curva de oferta agregada a largo plazo?",
+    "respuestas": [
+      {
+        "text": "La curva de oferta agregada a largo plazo es vertical",
+        "correcta": true
+      },
+      {
+        "text": "La curva de oferta agregada a largo plazo es horizontal",
+        "correcta": false
+      }
+    ],
+    "topic": "Oferta Agregada"
+  },
+  {
+    "pregunta": "5.1 La curva de oferta agregada…",
+    "respuestas": [
+      {
+        "text": "Es horizontal a largo plazo.",
+        "correcta": false
+      },
+      {
+        "text": "Es vertical a largo plazo.",
+        "correcta": true
+      }
+    ],
+    "topic": "Oferta Agregada"
+  },
+  {
+    "pregunta": "5.1 La curva de oferta a largo plazo:",
+    "respuestas": [
+      {
+        "text": "Es perfectamente elástica porque a largo plazo la producción de bienes y servicios de la economía (PBI real) depende de la cantidad de trabajo, de capital y de recursos naturales que posee, así como de la tecnología de producción existente utilizada para convertir factores en productos.",
+        "correcta": false
+      },
+      {
+        "text": "Es perfectamente inelástica porque a largo plazo la producción de bienes y servicios de la economía (PBI real) depende de la cantidad de trabajo, de capital y de recursos naturales que posee, así como de la tecnología de producción existente utilizada para convertir factores en productos.",
+        "correcta": true
+      }
+    ],
+    "topic": "Oferta Agregada"
+  },
+  {
+    "pregunta": "5.1 La teoría de la rigidez de los salarios establece que:",
+    "respuestas": [
+      {
+        "text": "Dado que el salario se fija en términos nominales, si los precios caen, las empresas van a caer sus beneficios y contratan más trabajadores y amplian la producción .",
+        "correcta": false
+      },
+      {
+        "text": "Dado que el salario se fija en términos nominales, si los precios caen, las empresas van a caer sus beneficios y contratan menos trabajadores y reducen la producción por la caída en la rentabilidad.",
+        "correcta": true
+      }
+    ],
+    "topic": "Oferta Agregada"
+  },
+  {
+    "pregunta": "5.1 Entre otras explicaciones, la teoría de las percepciones erróneas fundamenta por qué:",
+    "respuestas": [
+      {
+        "text": "La oferta agregada tiene pendiente positiva en el corto plazo.",
+        "correcta": true
+      },
+      {
+        "text": "La oferta agregada tiene pendiente negativa en el corto plazo",
+        "correcta": false
+      }
+    ],
+    "topic": "Oferta Agregada"
+  },
+  {
+    "pregunta": "5.1 En el modelo de Oferta y Demanda Agregadas la pendiente positiva de la Oferta Agregada se explica por:",
+    "respuestas": [
+      {
+        "text": "La teoría de la flexibilidad de los salarios, la teoría de las percepciones erróneas, y la teoría de la rigidez de precios",
+        "correcta": false
+      },
+      {
+        "text": "La teoría de la rigidez de los salarios, la teoría de las percepciones erróneas, y la teoría de la rigidez de precios",
+        "correcta": true
+      }
+    ],
+    "topic": "Oferta Agregada"
+  },
+  {
+    "pregunta": "5.1 Un aumento en la dotación de factores productivos pueden:",
+    "respuestas": [
+      {
+        "text": "Desplazar tanto la curva de oferta agregada a largo como a corto plazo hacia la derecha.",
+        "correcta": true
+      },
+      {
+        "text": "Desplazar tanto la curva de oferta agregada a largo como a corto plazo hacia la izquierda",
+        "correcta": false
+      }
+    ],
+    "topic": "Oferta Agregada: Desplazamientos"
+  },
+  {
+    "pregunta": "5.1 Un aumento en la dotación de factores productivos pueden:",
+    "respuestas": [
+      {
+        "text": "Desplazar la curva de oferta agregada a largo plazo hacia la izquierda",
+        "correcta": false
+      },
+      {
+        "text": "Desplazar la curva de oferta agregada a largo plazo hacia la derecha.",
+        "correcta": true
+      }
+    ],
+    "topic": "Oferta Agregada: Desplazamientos"
+  },
+  {
+    "pregunta": "5.1 Un aumento en la dotación de factores productivos pueden:",
+    "respuestas": [
+      {
+        "text": "Desplazar la curva de oferta agregada a largo plazo hacia la derecha",
+        "correcta": true
+      },
+      {
+        "text": "Desplazar la curva de oferta agregada a largo plazo hacia la izquierda",
+        "correcta": false
+      }
+    ],
+    "topic": "Oferta Agregada: Desplazamientos"
+  },
+  {
+    "pregunta": "5.2 Entre los cambios que determinan modificaciones en la oferta agregada a largo plazo podemos mencionar a: Seleccione las 2 (dos) opciones correctas:",
+    "respuestas": [
+      {
+        "text": "Cambios en los recursos naturales.",
+        "correcta": true
+      },
+      {
+        "text": "Cambios en la capacidad de gestión.",
+        "correcta": true
+      },
+      {
+        "text": "Cambios en la cantidad de inversión",
+        "correcta": false
+      }
+    ],
+    "topic": "Oferta Agregada: Desplazamientos"
+  },
+  {
+    "pregunta": "5.3 En las operaciones de mercado abierto:",
+    "respuestas": [
+      {
+        "text": "ElBanco Central vende los instrumentos privados",
+        "correcta": false
+      },
+      {
+        "text": "El Banco Central compra o vende títulos públicos",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Monetaria (Operaciones de Mercado Abierto)"
+  },
+  {
+    "pregunta": "6.1 El BCRA compra bonos del estado nacional en el mercado abierto. ¿Cómo piensa usted que influirá en la economía a corto plazo dicha medida?:",
+    "respuestas": [
+      {
+        "text": "La producción y los precios aumentarán",
+        "correcta": true
+      },
+      {
+        "text": "La producción y los precios disminuirán",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Operaciones de Mercado Abierto)"
+  },
+  {
+    "pregunta": "6.1 El BCRA vende bonos del estado nacional en el mercado abierto. ¿Cómo piensa usted que influirá en la economía dicha medida a corto plazo?:",
+    "respuestas": [
+      {
+        "text": "La producción y los precios aumentarán",
+        "correcta": false
+      },
+      {
+        "text": "La producción y los precios disminuirán.",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Monetaria (Operaciones de Mercado Abierto)"
+  },
+  {
+    "pregunta": "5.3 Una venta de títulos públicos por parte del Banco Central implica:",
+    "respuestas": [
+      {
+        "text": "Un aumento de la oferta monetaria",
+        "correcta": false
+      },
+      {
+        "text": "Una disminución de la oferta monetaria",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Monetaria (Operaciones de Mercado Abierto)"
+  },
+  {
+    "pregunta": "5.3 ¿Cuál de los siguientes hechos mencionados implicaría una disminución de la oferta monetaria de un país?:",
+    "respuestas": [
+      {
+        "text": "El Banco Central vende bonos a los particulares en operaciones de mercado abierto.",
+        "correcta": true
+      },
+      {
+        "text": "El Banco Central vende bonos a los particulares en operaciones de mercado cerrado.",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Operaciones de Mercado Abierto)"
+  },
+  {
+    "pregunta": "6.1 Trabajando en el directorio del Banco Central de la República Argentina, lo consultan sobre que herramienta puede utilizar la autoridad monetaria del país para disminuir la oferta de dinero con el objetivo de reducir la tasa de inflación. ¿Cuál sería su postura?",
+    "respuestas": [
+      {
+        "text": "El Banco Central de la República Argentina podría vender bonos gubernamentales al público en operaciones de mercado abierto",
+        "correcta": true
+      },
+      {
+        "text": "El Banco Central de la República Argentina podría vender bonos gubernamentales al público en operaciones de mercado cerrado",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Operaciones de Mercado Abierto)"
+  },
+  {
+    "pregunta": "7. 5.3 Como asesor en el BCRA le solicitan que analice los efectos de corto plazo que se producirían en el país si se realizan operaciones de mercado abierto mediante la venta de bonos gubernamentales. ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "Se va a producir en el país una disminución en la tasa de interés en el mercado del dinero y un aumento de la demanda agregada",
+        "correcta": false
+      },
+      {
+        "text": "Se va a producir en el país un aumento en la tasa de interés en el mercado del dinero y una disminución de la demanda agregada",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en DA)"
+  },
+  {
+    "pregunta": "6.1 Si el banco central aumenta significativamente las reservas exigidas (encajes mínimos bancarios) esta medida producirá, céterisparibus:",
+    "respuestas": [
+      {
+        "text": "Una aumento de la capacidad prestable de los bancos y una disminución del efecto monetario",
+        "correcta": false
+      },
+      {
+        "text": "Una disminución de la capacidad prestable de los bancos y una disminución del efecto monetario",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en DA)"
+  },
+  {
+    "pregunta": "6.4 Siendo asesor en el BCRA le solicitan que analice cuáles son los efectos que provoca en el corto plazo una política monetaria expansiva generada por un aumento en los redescuentos brindados a los bancos comerciales ¿Cuál sería su respuesta?:",
+    "respuestas": [
+      {
+        "text": "Se produce en el país un aumento en la tasa de interés en el mercado del dinero y una baja de la demanda agregada",
+        "correcta": false
+      },
+      {
+        "text": "Se produce en el país una disminución en la tasa de interés en el mercado del dinero y un aumento de la demanda agregada",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en DA)"
+  },
+  {
+    "pregunta": "5.3 Al trabajar en el BCRA necesita determinar que efectos produce en el corto plazo en el país un incremento en el otorgamiento de redescuentos a los bancos comerciales ¿Cuál sería su postura?",
+    "respuestas": [
+      {
+        "text": "Un incremento en la cantidad de Redescuentos a los bancos comerciales genera en el país una caída en la tasa de interés en el mercado del dinero y un aumento de la demanda agregada",
+        "correcta": true
+      },
+      {
+        "text": "Un quita en la cantidad de Redescuentos a los bancos comerciales genera en el país una caída en la tasa de interés en el mercado del dinero y un aumento de la demanda agregada",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en DA)"
+  },
+  {
+    "pregunta": "5.3 Ante la necesidad de lograr reactivar la economía interna como parte integrante del Banco Central de la República Argentina (BCRA), como profesional, ¿Qué política recomendaría para incrementar la Demanda Agregada?",
+    "respuestas": [
+      {
+        "text": "Recomendaría una disminución en la tasa de interés que incremente las inversiones de las empresas.",
+        "correcta": true
+      },
+      {
+        "text": "Recomendaría un aumento en la tasa de interés que incremente las inversiones de las empresas.",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en DA)"
+  },
+  {
+    "pregunta": "6.2 Junto el Presidente del Banco Central de la República Argentina necesita determina qué efectos se producen en el mercado monetario si la autoridad monetaria de Argentina decide adquirir títulos públicos mediante operaciones de mercado abierto ¿Cuál seria su postura al respecto?:",
+    "respuestas": [
+      {
+        "text": "Se va a producir en Argentina un aumento en la oferta monetaria que aumenta el valor del dinero e incrementa el nivel de precios",
+        "correcta": false
+      },
+      {
+        "text": "Se va a producir en Argentina un aumento en la oferta monetaria que disminuye el valor del dinero e incrementa el nivel de precios",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en Precios)"
+  },
+  {
+    "pregunta": "6.2 Junto al residente del Banco Central de la República Argentina necesita determinar qué efectos se producen en el mercado monetario si la autoridad monetaria de Argentina decide adquirir títulos públicos mediante operaciones de mercado abierto. ¿Cuál sería su postura al respecto?",
+    "respuestas": [
+      {
+        "text": "Se va a producir en Argentina un aumento en la oferta monetaria que disminuye el valor del dinero e incrementa el nivel de precios.",
+        "correcta": true
+      },
+      {
+        "text": "Se va a producir en Argentina una disminución en la oferta monetaria que disminuye el valor del dinero e incrementa el nivel de precios.",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en Precios)"
+  },
+  {
+    "pregunta": "6.2 Al ser responsable de la política monetaria de Argentina necesita determinar qué efectos se producen en el mercado monetario si el Banco Central de la República Argentina decide vender títulos públicos mediante operaciones de mercado abierto. ¿Cuál sería su postura al respecto?:",
+    "respuestas": [
+      {
+        "text": "La venta de los títulos públicos en operaciones de mercado abierto por parte del Banco Central de la República Argentina va a generar una caída en la oferta monetaria que incrementa el valor del dinero y disminuye el nivel de precios.",
+        "correcta": true
+      },
+      {
+        "text": "La venta de los títulos públicos en operaciones de mercado abierto por parte del Banco Central de la República Argentina va a generar una caída en la oferta monetaria que incrementa el valor del dinero y aumenta el nivel de precios.",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en Precios)"
+  },
+  {
+    "pregunta": "6.3 Indicar cuál de las siguientes afirmaciones es correcta:",
+    "respuestas": [
+      {
+        "text": "En el corto plazo la emisión monetaria puede lograr un aumento de la cantidad de equilibrio en la economía y generar mayor empleo",
+        "correcta": true
+      },
+      {
+        "text": "En el largo plazo la emisión monetaria puede lograr un aumento de la cantidad de equilibrio en la economía y generar mayor empleo",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en Plazo)"
+  },
+  {
+    "pregunta": "6.2 En función de la teoría cuantitativa del dinero ¿Qué sucede generalmente cuando el Banco Central de un país incrementa la oferta de dinero rápidamente?",
+    "respuestas": [
+      {
+        "text": "Un aumento de la inflación",
+        "correcta": true
+      },
+      {
+        "text": "Una baja de la inflación",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Monetaria (Efectos en Plazo)"
+  },
+  {
+    "pregunta": "5.3 Trabajando dentro del directorio del BCRA le solicitan que determine como debería intervenir la entidad para estabilizar la economía ante un incremento de los impuestos por parte del gobierno.¿Cuál sería su postura ante lo planteado?",
+    "respuestas": [
+      {
+        "text": "El BCRA puede comprar títulos públicos para incrementar la oferta de dinero que reduce la tasa de interés estimulando el gasto de inversión y expandiendo la oferta de mercado",
+        "correcta": false
+      },
+      {
+        "text": "El BCRA puede comprar títulos públicos para incrementar la oferta de dinero que reduce la tasa de interés estimulando el gasto de inversión y expandiendo la demanda agregada",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Fiscal y Estabilizadores Automáticos"
+  },
+  {
+    "pregunta": "5.2 Para lograr estimular la actividad económica como asesor del Poder Ejecutivo, ¿Cuál seria su recomendación al Presidente de la Nación?",
+    "respuestas": [
+      {
+        "text": "Incrementar el nivel del gasto público mediante la construcción de viviendas sociales, escuelas y hospitales.",
+        "correcta": true
+      },
+      {
+        "text": "Disminuir el nivel del gasto público mediante la construcción de viviendas sociales, escuelas y hospitales.",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Fiscal y Estabilizadores Automáticos"
+  },
+  {
+    "pregunta": "5.3 El ajuste que realizan los encargados de política económica del gobierno en el nivel de gasto gubernamental y en la política tributaria se denomina",
+    "respuestas": [
+      {
+        "text": "Politica Fiscal",
+        "correcta": true
+      },
+      {
+        "text": "Reglas de Estado",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Fiscal y Estabilizadores Automáticos"
+  },
+  {
+    "pregunta": "5.3 Los estabilizadores automáticos son:",
+    "respuestas": [
+      {
+        "text": "Cambios de la política fiscal q estimulan la oferta agregada cuando la economía entra en una recesión sin que las autoridades intervengan.",
+        "correcta": false
+      },
+      {
+        "text": "Cambios de la política fiscal q estimulan la demanda agregada cuando la economía entra en una recesión sin que las autoridades intervengan.",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Fiscal y Estabilizadores Automáticos"
+  },
+  {
+    "pregunta": "5.3 El estabilizador automático más importante de una economía es:",
+    "respuestas": [
+      {
+        "text": "El PBN",
+        "correcta": false
+      },
+      {
+        "text": "El sistema tributario",
+        "correcta": true
+      }
+    ],
+    "topic": "Política Fiscal y Estabilizadores Automáticos"
+  },
+  {
+    "pregunta": "5.3 ¿Cuál es el significado del efecto expulsión?",
+    "respuestas": [
+      {
+        "text": "El efecto expulsión es la compensación en la demanda agregada que resulta cuando la política fiscal expresionista incrementa la tasa de interés y, por lo tanto, reduce el gasto en la inversión.",
+        "correcta": true
+      },
+      {
+        "text": "El efecto expulsión es la compensación en la oferta de mercado que resulta cuando la política fiscal expresionista incrementa la tasa de interés y, por lo tanto, reduce el gasto en la inversión.",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Fiscal y Estabilizadores Automáticos"
+  },
+  {
+    "pregunta": "5.1 ¿Cuál de las siguientes igualdades representa el equilibrio entre la Oferta Agregada y la Demanda Agregada?:",
+    "respuestas": [
+      {
+        "text": "C=Y-I-G-NX",
+        "correcta": true
+      },
+      {
+        "text": "C=Y-I-G",
+        "correcta": false
+      }
+    ],
+    "topic": "Equilibrio Macroeconómico"
+  },
+  {
+    "pregunta": "5.1 Si la economía sufre una recesión debido a una disminución de la demanda agregada, el efecto que tendría sobre el equilibrio macroeconómico será:",
+    "respuestas": [
+      {
+        "text": "Una suba en el nivel general de precios y en la producción",
+        "correcta": false
+      },
+      {
+        "text": "Una baja en el nivel general de precios y en la producción",
+        "correcta": true
+      }
+    ],
+    "topic": "Equilibrio Macroeconómico"
+  },
+  {
+    "pregunta": "5.2 Como asesor presidencial necesita determinar que sucede con el equilibrio de la economía en el corto plazo al producirse una caída en el nivel del gasto público ¿Cuál sería su respuesta?",
+    "respuestas": [
+      {
+        "text": "Se producirá una disminución en la demanda agregada con una caída en los precios y en el nivel de producción o ingresos de la economía.",
+        "correcta": true
+      },
+      {
+        "text": "Se producirá un incremento en la demanda agregada con una caída en los precios y en el nivel de producción o ingresos de la economía.",
+        "correcta": false
+      }
+    ],
+    "topic": "Equilibrio Macroeconómico"
+  },
+  {
+    "pregunta": "5.2 Debido a expectativas inflacionarias los trabajadores modifican su convenio laboral aumentado el piso del salario nominal. Desde el punto de vista macro económico los resultados finales a corto plazo serán:",
+    "respuestas": [
+      {
+        "text": "Disminuira el nivel general de precios y aumentara la producción.",
+        "correcta": false
+      },
+      {
+        "text": "Aumentará el nivel general de precios y disminuirá la producción.",
+        "correcta": true
+      }
+    ],
+    "topic": "Equilibrio Macroeconómico"
+  },
+  {
+    "pregunta": "6.2 Dada una situación de equilibrio macro económico en una situación de pleno empleo, si la demanda agregada aumenta, sucederá lo siguiente con el nivel de producción y precios de equilibrio en el corto plazo:",
+    "respuestas": [
+      {
+        "text": "El nivel de producción no crece ya que se encuentra en su nivel mínimo de producción, mientras el nivel de precios aumenta.",
+        "correcta": false
+      },
+      {
+        "text": "El nivel de producción no crece ya que se encuentra en su nivel máximo de producción, mientras el nivel de precios aumenta.",
+        "correcta": true
+      }
+    ],
+    "topic": "Equilibrio Macroeconómico"
+  },
+  {
+    "pregunta": "5.3 Siendo responsable del Ministerio de Economia le solicitan que analice los efectos que generan en el equilibrio de largo plazo del país un avance tecnológico y un crecimiento en la oferta de dinero por políticas monetarias expansivas aplicadas por el BCRA ¿Cuál sería su respuesta?:",
+    "respuestas": [
+      {
+        "text": "Se va a generar en el largo plazo un aumento en los precios y en el nivel de ingreso o producción del país.",
+        "correcta": true
+      },
+      {
+        "text": "Se va a generar en el corto plazo un aumento en los precios y en el nivel de ingreso o producción del país.",
+        "correcta": false
+      }
+    ],
+    "topic": "Equilibrio Macroeconómico"
+  },
+  {
+    "pregunta": "5.2 Como parte del Ministerio de Economía y Finanzas Públicas se hace necesario determinar qué efectos genera un aumento en la tasa de interés a largo plazo ¿Cuál sería su postura ante el debate?",
+    "respuestas": [
+      {
+        "text": "Se produce una caída en la inversión que genera una disminución en la demanda agregada provocando en el largo plazo que (Cortada)… en los precios mientras que el nivel de ingreso se mantiene constante.",
+        "correcta": true
+      },
+      {
+        "text": "Se produce una suba en la inversión que genera un aumento en la demanda agregada provocando en el largo plazo que (Cortada)… en los precios mientras que el nivel de ingreso se mantiene constante.",
+        "correcta": false
+      }
+    ],
+    "topic": "Equilibrio Macroeconómico"
+  },
+  {
+    "pregunta": "5.3 La consecuencia más probable de una emisión monetaria, si no hay demanda suficiente de dinero, es:",
+    "respuestas": [
+      {
+        "text": "El aumento generalizado de los precios",
+        "correcta": true
+      },
+      {
+        "text": "La disminución de precios",
+        "correcta": false
+      }
+    ],
+    "topic": "Equilibrio Macroeconómico"
+  },
+  {
+    "pregunta": "5.3 El ajuste que realizan los encargados de política económica del gobierno en el nivel de gasto gubernamental y en la política tributaria se denomina",
+    "respuestas": [
+      {
+        "text": "Politica Fiscal",
+        "correcta": true
+      },
+      {
+        "text": "Reglas de Estado",
+        "correcta": false
+      }
+    ],
+    "topic": "Política Fiscal y Estabilizadores Automáticos"
+  }
+]
