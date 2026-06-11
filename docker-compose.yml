@@ -1,0 +1,25 @@
+services:
+  quizzer:
+    build: .
+    container_name: quizzer
+    restart: always
+    ports:
+      - "8006:3000"
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=postgres://financhuls:financhuls@financhuls-db-1:5432/financhuls
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=traefik_webgateway"
+      - "traefik.http.routers.quizzer.rule=Host(`quizzer.home.local`)"
+      - "traefik.http.routers.quizzer.entrypoints=web"
+      - "traefik.http.services.quizzer.loadbalancer.server.port=3000"
+    networks:
+      - traefik_webgateway
+      - financhuls_default
+
+networks:
+  traefik_webgateway:
+    external: true
+  financhuls_default:
+    external: true

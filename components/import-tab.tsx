@@ -11,6 +11,7 @@ interface Question {
   pregunta: string
   respuestas: Answer[]
   topic?: string
+  imagen?: string | null
 }
 
 interface ImportTabProps {
@@ -73,6 +74,10 @@ export default function ImportTab({ onImportSuccess }: ImportTabProps) {
       }
       if (typeof item.topic !== 'undefined' && typeof item.topic !== 'string') {
         setParseError(`Pregunta ${i + 1}: el campo "topic" debe ser un texto cuando está presente.`)
+        return null
+      }
+      if (typeof item.imagen !== 'undefined' && item.imagen !== null && typeof item.imagen !== 'string') {
+        setParseError(`Pregunta ${i + 1}: el campo "imagen" debe ser un texto cuando está presente.`)
         return null
       }
       if (!Array.isArray(item.respuestas) || item.respuestas.length === 0) {
@@ -183,6 +188,7 @@ export default function ImportTab({ onImportSuccess }: ImportTabProps) {
   {
     "pregunta": "Texto de la pregunta",
     "topic": "Nombre del tema (opcional)",
+    "imagen": "images/nombre-imagen.png (opcional)",
     "respuestas": [
       { "text": "Opción correcta", "correcta": true },
       { "texto": "Opción incorrecta", "correcta": false }
@@ -191,7 +197,7 @@ export default function ImportTab({ onImportSuccess }: ImportTabProps) {
 ]`}
         </pre>
         <p className="text-xs text-muted-foreground">
-          El array puede contener múltiples preguntas. Una pregunta puede tener más de una respuesta correcta. El campo del texto de cada respuesta acepta <code className="bg-muted px-1 rounded">"text"</code> o <code className="bg-muted px-1 rounded">"texto"</code>.
+          El array puede contener múltiples preguntas. Una pregunta puede tener más de una respuesta correcta. El campo del texto de cada respuesta acepta <code className="bg-muted px-1 rounded">"text"</code> o <code className="bg-muted px-1 rounded">"texto"</code>. Además se puede incluir una <code className="bg-muted px-1 rounded">"imagen"</code> opcional.
         </p>
       </div>
 

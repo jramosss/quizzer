@@ -10,6 +10,7 @@ interface QuestionCardProps {
     pregunta: string
     respuestas: Answer[]
     topic?: string
+    imagen?: string | null
   }
   selectedAnswers: number[]
   onAnswerSelect: (index: number) => void
@@ -54,6 +55,18 @@ export default function QuestionCard({
           </p>
         )}
       </div>
+
+      {/* Question Image */}
+      {question.imagen && (
+        <div className="flex justify-center my-4 overflow-hidden rounded-xl border border-border bg-muted/10 p-2 shadow-inner">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={`http://localhost:8005/images/${question.imagen.replace(/^images\//, '')}`}
+            alt="Visualización de la pregunta"
+            className="max-h-72 md:max-h-96 object-contain w-auto h-auto rounded-lg transition-transform hover:scale-[1.02] duration-300"
+          />
+        </div>
+      )}
 
       {/* Answers */}
       <div className="space-y-3">

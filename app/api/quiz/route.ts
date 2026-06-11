@@ -1,7 +1,15 @@
-import { neon } from '@neondatabase/serverless'
+import { Pool } from 'pg'
 import { NextResponse } from 'next/server'
 
-const sql = neon(process.env.DATABASE_URL!)
+const pool = new Pool({ 
+  connectionString: process.env.DATABASE_URL 
+})
+
+async function sql(strings: TemplateStringsArray, ...values: any[]) {
+  const query = strings.reduce((acc, str, i) => acc + str + (i < values.length ? `$${i + 1}` : ''), '')
+  const res = await pool.query(query, values)
+  return res.rows
+}
 
 export async function GET() {
   try {
@@ -43,6 +51,12 @@ export async function POST(request: Request) {
           { status: 400 }
         )
       }
+      if (item.imagen !== undefined && item.imagen !== null && typeof item.imagen !== 'string') {
+        return NextResponse.json(
+          { error: 'El campo "imagen" debe ser un texto cuando está presente' },
+          { status: 400 }
+        )
+      }
       for (const r of item.respuestas as Record<string, unknown>[]) {
         const textValue = r.text ?? r.texto
         if (typeof textValue !== 'string' || typeof r.correcta !== 'boolean') {
@@ -51,7 +65,6 @@ export async function POST(request: Request) {
             { status: 400 }
           )
         }
-        // Normalize "texto" → "text" before storing
         if (r.texto !== undefined) {
           r.text = r.texto
           delete r.texto

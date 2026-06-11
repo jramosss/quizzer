@@ -15,6 +15,7 @@ interface Question {
   pregunta: string
   respuestas: Answer[]
   topic?: string
+  imagen?: string | null
 }
 
 interface UserResponse {
