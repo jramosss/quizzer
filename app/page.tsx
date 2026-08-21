@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import useSWR from 'swr'
 import QuizContainer from '@/components/quiz-container'
 import ImportTab from '@/components/import-tab'
@@ -15,6 +15,18 @@ interface Question {
   respuestas: Answer[]
   topic?: string
   imagen?: string | null
+}
+
+interface UserResponse {
+  questionIndex: number
+  selectedAnswers: number[]
+  isCorrect: boolean
+}
+
+interface SavedProgress {
+  currentIndex: number
+  responses: UserResponse[]
+  quizzes: Question[]
 }
 
 type Tab = 'quiz' | 'import'
@@ -36,6 +48,23 @@ export default function Home() {
   const [randomizeQuestions, setRandomizeQuestions] = useState(true)
   const [randomizeAnswers, setRandomizeAnswers] = useState(true)
   const [shuffledQuizzes, setShuffledQuizzes] = useState<Question[]>([])
+  const [savedProgress, setSavedProgress] = useState<SavedProgress | null>(null)
+  const [initialIndex, setInitialIndex] = useState(0)
+  const [initialResponses, setInitialResponses] = useState<UserResponse[]>([])
+
+  useEffect(() => {
+    const saved = localStorage.getItem('quiz_progress')
+    if (saved) {
+      try {
+        const parsed = JSON.parse(saved)
+        if (parsed && Array.isArray(parsed.quizzes) && typeof parsed.currentIndex === 'number') {
+          setSavedProgress(parsed)
+        }
+      } catch (e) {
+        console.error('Error loading saved quiz progress:', e)
+      }
+    }
+  }, [])
 
   const { data: quizzes, isLoading, mutate } = useSWR<Question[]>('/api/quiz', fetcher)
 
@@ -64,11 +93,28 @@ export default function Home() {
       }))
     }
 
+    setInitialIndex(0)
+    setInitialResponses([])
     setShuffledQuizzes(processedQuizzes)
     setStarted(true)
   }
 
+  const handleResumeQuiz = () => {
+    if (!savedProgress) return
+    setShuffledQuizzes(savedProgress.quizzes)
+    setInitialIndex(savedProgress.currentIndex)
+    setInitialResponses(savedProgress.responses)
+    setStarted(true)
+  }
+
+  const handleClearProgress = () => {
+    localStorage.removeItem('quiz_progress')
+    setSavedProgress(null)
+  }
+
   const handleImportSuccess = (questions: Question[]) => {
+    localStorage.removeItem('quiz_progress')
+    setSavedProgress(null)
     mutate(questions, false)
     setStarted(false)
     setActiveTab('quiz')
@@ -80,9 +126,19 @@ export default function Home() {
     return (
       <QuizContainer
         quizzes={shuffledQuizzes}
+        initialIndex={initialIndex}
+        initialResponses={initialResponses}
         onExit={() => {
           setStarted(false)
           setShuffledQuizzes([])
+          const saved = localStorage.getItem('quiz_progress')
+          if (saved) {
+            try {
+              setSavedProgress(JSON.parse(saved))
+            } catch {}
+          } else {
+            setSavedProgress(null)
+          }
         }}
       />
     )
@@ -161,6 +217,38 @@ export default function Home() {
                     {quizzes.length} pregunta{quizzes.length !== 1 ? 's' : ''} cargada{quizzes.length !== 1 ? 's' : ''}
                   </p>
                 </div>
+
+                {savedProgress && (
+                  <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 space-y-4 shadow-sm">
+                    <div className="flex items-start gap-3">
+                      <div className="w-8 h-8 rounded-full bg-primary/10 text-primary flex items-center justify-center flex-shrink-0">
+                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+                        </svg>
+                      </div>
+                      <div className="space-y-1">
+                        <h4 className="text-sm font-semibold text-foreground">Cuestionario en curso detectado</h4>
+                        <p className="text-xs text-muted-foreground">
+                          Te quedaste en la pregunta {savedProgress.currentIndex + 1} de {savedProgress.quizzes.length}.
+                        </p>
+                      </div>
+                    </div>
+                    <div className="flex flex-wrap gap-2">
+                      <button
+                        onClick={handleResumeQuiz}
+                        className="text-xs bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-4 py-2.5 rounded-lg transition-colors shadow-sm"
+                      >
+                        Reanudar cuestionario
+                      </button>
+                      <button
+                        onClick={handleClearProgress}
+                        className="text-xs border border-border hover:bg-muted text-muted-foreground hover:text-foreground font-semibold px-4 py-2.5 rounded-lg transition-colors"
+                      >
+                        Descartar progreso
+                      </button>
+                    </div>
+                  </div>
+                )}
 
                 {/* Topics summary */}
                 {topics.length > 0 && (

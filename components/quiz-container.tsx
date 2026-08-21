@@ -27,11 +27,18 @@ interface UserResponse {
 interface QuizContainerProps {
   quizzes: Question[]
   onExit?: () => void
+  initialIndex?: number
+  initialResponses?: UserResponse[]
 }
 
-export default function QuizContainer({ quizzes, onExit }: QuizContainerProps) {
-  const [currentIndex, setCurrentIndex] = useState(0)
-  const [responses, setResponses] = useState<UserResponse[]>([])
+export default function QuizContainer({
+  quizzes,
+  onExit,
+  initialIndex = 0,
+  initialResponses = [],
+}: QuizContainerProps) {
+  const [currentIndex, setCurrentIndex] = useState(initialIndex)
+  const [responses, setResponses] = useState<UserResponse[]>(initialResponses)
   const [completed, setCompleted] = useState(false)
   const [selectedAnswers, setSelectedAnswers] = useState<number[]>([])
   const [feedbackShown, setFeedbackShown] = useState(false)
@@ -41,6 +48,25 @@ export default function QuizContainer({ quizzes, onExit }: QuizContainerProps) {
     setSelectedAnswers([])
     setFeedbackShown(false)
   }, [currentIndex])
+
+  useEffect(() => {
+    if (quizzes.length > 0 && !completed) {
+      localStorage.setItem(
+        'quiz_progress',
+        JSON.stringify({
+          currentIndex,
+          responses,
+          quizzes,
+        })
+      )
+    }
+  }, [currentIndex, responses, quizzes, completed])
+
+  useEffect(() => {
+    if (completed) {
+      localStorage.removeItem('quiz_progress')
+    }
+  }, [completed])
 
   const handleAnswerSelect = (answerIndex: number) => {
     setSelectedAnswers((prev) => {

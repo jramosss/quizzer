@@ -23,7 +23,7 @@ COPY . .
 # Uncomment the following line in case you want to disable telemetry during the build.
 # ENV NEXT_TELEMETRY_DISABLED 1
 
-RUN DATABASE_URL=postgres://dummy:dummy@localhost:5432/dummy pnpm run build
+RUN pnpm run build
 
 FROM base AS runner
 WORKDIR /app
@@ -36,9 +36,9 @@ RUN adduser --system --uid 1001 nextjs
 
 COPY --from=builder /app/public ./public
 
-# Set the correct permission for prerender cache
-RUN mkdir .next
-RUN chown nextjs:nodejs .next
+# Set the correct permission for prerender cache and sqlite data
+RUN mkdir .next /app/data
+RUN chown -R nextjs:nodejs .next /app/data
 
 # Automatically leverage output traces to reduce image size
 # https://nextjs.org/docs/advanced-features/output-file-tracing

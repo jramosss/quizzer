@@ -1,23 +1,19 @@
-import { Pool } from 'pg'
 import { NextResponse } from 'next/server'
-
-const pool = new Pool({ 
-  connectionString: process.env.DATABASE_URL 
-})
-
-async function sql(strings: TemplateStringsArray, ...values: any[]) {
-  const query = strings.reduce((acc, str, i) => acc + str + (i < values.length ? `$${i + 1}` : ''), '')
-  const res = await pool.query(query, values)
-  return res.rows
-}
+import { db, initDb } from '@/lib/db'
 
 export async function GET() {
   try {
-    const rows = await sql`SELECT questions FROM quiz_data WHERE id = 1`
-    if (rows.length === 0) {
+    await initDb()
+    const result = await db.execute({
+      sql: 'SELECT questions FROM quiz_data WHERE id = 1',
+      args: []
+    })
+
+    if (result.rows.length === 0 || !result.rows[0].questions) {
       return NextResponse.json([])
     }
-    return NextResponse.json(rows[0].questions)
+
+    return NextResponse.json(JSON.parse(result.rows[0].questions as string))
   } catch (error) {
     console.error('[quiz/GET]', error)
     return NextResponse.json({ error: 'Error al cargar el cuestionario' }, { status: 500 })
@@ -72,11 +68,15 @@ export async function POST(request: Request) {
       }
     }
 
-    await sql`
-      INSERT INTO quiz_data (id, questions)
-      VALUES (1, ${JSON.stringify(body)}::jsonb)
-      ON CONFLICT (id) DO UPDATE SET questions = EXCLUDED.questions, updated_at = NOW()
-    `
+    await initDb()
+    await db.execute({
+      sql: `
+        INSERT INTO quiz_data (id, questions, updated_at)
+        VALUES (1, ?, datetime('now'))
+        ON CONFLICT(id) DO UPDATE SET questions = excluded.questions, updated_at = excluded.updated_at
+      `,
+      args: [JSON.stringify(body)]
+    })
 
     return NextResponse.json({ success: true, count: body.length })
   } catch (error) {
